@@ -1,0 +1,10 @@
+code,factor,public_definition,status,confidence,note
+L1,tillage,Two ploughings / conventional-intensity comparator,verified from code mapping + outcome labels,high,The proposal gives a multi-pass conventional sequence. Public label avoids treating this as a universal agronomic definition.
+L2,tillage,One ploughing / reduced tillage,verified from code mapping + outcome labels,high,"This is reduced tillage, not zero tillage. No L3 level appears in the 32-row outcome dataset."
+IR1,irrigation,Normal / conventional irrigation,verified from code mapping + outcome labels,high,Operational water-depth thresholds are not available in the public source package.
+IR2,irrigation,Alternate wetting and drying (AWD),verified from code mapping + proposal,high,"AWD infrastructure and daily water-level monitoring are reported, but the underlying water-depth series was not supplied."
+F1,nutrient,Full recommended mineral fertilizer plus organic manure,provisional public reconstruction,moderate,Code-mapping source supports this label. A separate application schedule creates an unresolved discrepancy about use of a proprietary liquid input; product-specific details are withheld.
+F2,nutrient,Reduced recommended mineral fertilizer plus organic manure and a proprietary organic input,provisional public reconstruction,moderate,"Code-mapping and proposal broadly agree on a reduced-mineral blended treatment. Proprietary product identity, proportions, and dosing are intentionally not published here."
+F3,nutrient,Full recommended mineral fertilizer; residue component unresolved,provisional public reconstruction,moderate,"Code mapping describes full inorganic fertilizer, while the proposal additionally specifies previous-season straw. Field records must resolve the final operational definition."
+F4,nutrient,No-fertilizer control,verified across code mapping and proposal,high,No fertilizer treatment.
+R1/R2,replicate,Two plot-level replicates within each L x IR x F cell,verified from plot codes,high,These are observational plot replicates. They do not by themselves prove independent whole-plot replication for tillage or irrigation.

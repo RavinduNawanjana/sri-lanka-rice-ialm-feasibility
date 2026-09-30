@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680">
+  <rect x="0" y="0" width="1120" height="680" fill="white"/>
+  <text x="560" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700">Conceptual experimental hierarchy reconstructed from proposal</text>
+  <text x="560" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">Not a surveyed plot map. Randomization units must be verified from field records.</text>
+  <g font-family="Arial, sans-serif" font-size="16">
+    <rect x="40" y="105" width="500" height="500" rx="12" fill="#f6f6f6" stroke="#444" stroke-width="2"/>
+    <text x="290" y="138" text-anchor="middle" font-size="20" font-weight="700">L1: two ploughings</text>
+    <rect x="65" y="160" width="450" height="195" rx="8" fill="#ffffff" stroke="#666"/>
+    <text x="290" y="187" text-anchor="middle" font-weight="700">IR1: normal irrigation</text>
+    <rect x="65" y="380" width="450" height="195" rx="8" fill="#ffffff" stroke="#666"/>
+    <text x="290" y="407" text-anchor="middle" font-weight="700">IR2: AWD</text>
+
+    <rect x="580" y="105" width="500" height="500" rx="12" fill="#f6f6f6" stroke="#444" stroke-width="2"/>
+    <text x="830" y="138" text-anchor="middle" font-size="20" font-weight="700">L2: one ploughing / reduced tillage</text>
+    <rect x="605" y="160" width="450" height="195" rx="8" fill="#ffffff" stroke="#666"/>
+    <text x="830" y="187" text-anchor="middle" font-weight="700">IR1: normal irrigation</text>
+    <rect x="605" y="380" width="450" height="195" rx="8" fill="#ffffff" stroke="#666"/>
+    <text x="830" y="407" text-anchor="middle" font-weight="700">IR2: AWD</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
+    <!-- 8 small nutrient plots per irrigation section -->
+    <g transform="translate(85,215)">
+      <rect x="0" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="30">F1 R1</text>
+      <rect x="100" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="30">F3 R1</text>
+      <rect x="200" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="30">F2 R1</text>
+      <rect x="300" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="30">F4 R1</text>
+      <rect x="0" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="90">F2 R2</text>
+      <rect x="100" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="90">F4 R2</text>
+      <rect x="200" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="90">F1 R2</text>
+      <rect x="300" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="90">F3 R2</text>
+    </g>
+    <g transform="translate(85,435)">
+      <rect x="0" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="30">F4 R1</text>
+      <rect x="100" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="30">F1 R1</text>
+      <rect x="200" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="30">F3 R1</text>
+      <rect x="300" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="30">F2 R1</text>
+      <rect x="0" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="90">F1 R2</text>
+      <rect x="100" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="90">F2 R2</text>
+      <rect x="200" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="90">F4 R2</text>
+      <rect x="300" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="90">F3 R2</text>
+    </g>
+    <g transform="translate(625,215)">
+      <rect x="0" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="30">F1 R1</text>
+      <rect x="100" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="30">F4 R1</text>
+      <rect x="200" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="30">F2 R1</text>
+      <rect x="300" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="30">F3 R1</text>
+      <rect x="0" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="90">F3 R2</text>
+      <rect x="100" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="90">F2 R2</text>
+      <rect x="200" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="90">F1 R2</text>
+      <rect x="300" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="90">F4 R2</text>
+    </g>
+    <g transform="translate(625,435)">
+      <rect x="0" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="30">F2 R1</text>
+      <rect x="100" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="30">F3 R1</text>
+      <rect x="200" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="30">F4 R1</text>
+      <rect x="300" y="0" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="30">F1 R1</text>
+      <rect x="0" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="45" y="90">F4 R2</text>
+      <rect x="100" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="145" y="90">F1 R2</text>
+      <rect x="200" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="245" y="90">F3 R2</text>
+      <rect x="300" y="60" width="90" height="48" fill="#fafafa" stroke="#999"/><text x="345" y="90">F2 R2</text>
+    </g>
+  </g>
+  <text x="560" y="642" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">Small-box order is illustrative only. The key inference is the nested allocation hierarchy, not the drawn random sequence.</text>
+</svg>

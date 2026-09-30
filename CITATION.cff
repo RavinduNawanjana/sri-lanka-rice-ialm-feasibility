@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference this research reconstruction, please cite it using the metadata below."
+title: "Feasibility Assessment of Improved Agricultural Land Management Practices for Methane Mitigation in Sri Lankan Rice Systems"
+type: software
+authors:
+  - given-names: Ravindu
+    family-names: Nawanjana
+    orcid: "https://orcid.org/0009-0009-8594-0248"
+version: 1.1.0
+date-released: 2026-09-30
+abstract: "Reproducible academic reconstruction of a 2025 Sri Lankan paddy-field feasibility study covering AWD, reduced tillage, nutrient-management codes, agronomic outcomes, experimental-design identification, and carbon-methodology evidence requirements."

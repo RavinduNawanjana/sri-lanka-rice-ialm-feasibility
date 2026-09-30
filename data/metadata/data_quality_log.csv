@@ -1,0 +1,9 @@
+issue_id,domain,record,observed,assessment,required_action,severity
+DQ001,fresh_weight_kg_plot,L2IR1F4R2,38,Potential data-entry anomaly: value is far above neighbouring fresh weights while dry yield is 4.75 kg/plot.,do_not_correct_without_source,high
+DQ002,fertilizer_code,F1/F2,n/a,Application schedule conflicts with proposal/code-mapping on where the proprietary liquid input was applied.,reconcile signed field book and final treatment sheet,high
+DQ003,fertilizer_code,F3,n/a,Proposal includes previous-season straw; code-mapping workbook labels F3 only as full inorganic fertilizer.,confirm residue management from final field record,high
+DQ004,experimental_design,L and IR factors,n/a,Available plot map appears hierarchical; outcome data contain no block or whole-plot identifiers. Plot-level R1/R2 replicates do not establish independent replication for tillage/irrigation.,recover randomization map and block/whole-plot IDs before confirmatory inference,high
+DQ005,GHG_data,all,missing,"Progress report states CO2 and CH4 measurement was ongoing, but supplied spreadsheets include only empty GHG templates and no gas concentration/flux series.","obtain raw gas measurements, timing, chamber geometry, calibration and QA/QC",high
+DQ006,growth_linkage,C01-C16/F01-F16,unresolved,32 longitudinal growth workbooks cannot be reliably linked to final plot codes from available files.,retain as unlinked series until mapping is documented,high
+DQ007,AWD_monitoring,IR2,missing,"Progress report states daily AWD water-level monitoring, but underlying water-depth time series is not present in supplied package.",obtain daily water-depth record and threshold protocol,medium
+DQ008,units,panicle/grain weight fields,uncertain,Several weight columns lack printed units in the outcome workbook.,verify units against field sheet before formal manuscript use,medium

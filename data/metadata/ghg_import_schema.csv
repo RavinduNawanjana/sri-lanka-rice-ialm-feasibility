@@ -1,0 +1,1 @@
+plot_code,sampling_date,sampling_event_id,chamber_id,closure_time_min,ch4_concentration,ch4_unit,co2_concentration,co2_unit,n2o_concentration,n2o_unit,chamber_air_temperature_c,chamber_volume_m3,chamber_footprint_m2,water_depth_cm,analyzer_or_lab_method,calibration_id,qc_flag,source_file

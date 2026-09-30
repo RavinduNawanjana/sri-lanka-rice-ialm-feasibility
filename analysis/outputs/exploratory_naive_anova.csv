@@ -1,0 +1,9 @@
+effect,sum_sq,df,mean_sq,F,p_value,analysis_status
+tillage,40.5,1,40.5,24.347173,0.000149451,exploratory_naive_only
+irrigation,9.46125,1,9.46125,5.68777,0.029800493,exploratory_naive_only
+fertilizer,70.265625,3,23.421875,14.080406,9.4145e-05,exploratory_naive_only
+tillage:irrigation,1.20125,1,1.20125,0.722149,0.407976345,exploratory_naive_only
+tillage:fertilizer,11.110625,3,3.703542,2.226439,0.124599595,exploratory_naive_only
+irrigation:fertilizer,1.724375,3,0.574792,0.345544,0.792815809,exploratory_naive_only
+tillage:irrigation:fertilizer,2.251875,3,0.750625,0.451249,0.719934538,exploratory_naive_only
+error,26.615,16,1.663437,,,plot_level_error_term_may_be_invalid_for_L_and_IR

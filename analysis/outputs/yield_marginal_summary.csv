@@ -1,0 +1,9 @@
+factor,level,n,mean_kg_plot,sd_kg_plot,min_kg_plot,max_kg_plot
+tillage_code,L1,16,9.4125,1.701421,6.7,12.4
+tillage_code,L2,16,7.1625,2.297934,3.1,10.1
+irrigation_code,IR1,16,8.83125,2.141485,4.75,12.4
+irrigation_code,IR2,16,7.74375,2.378786,3.1,11.85
+fertilizer_code,F1,8,9.375,1.470666,7.05,11.35
+fertilizer_code,F2,8,9.89375,1.033868,8.5,11.85
+fertilizer_code,F3,8,7.775,2.355086,5.35,12.4
+fertilizer_code,F4,8,6.10625,2.11853,3.1,9.15

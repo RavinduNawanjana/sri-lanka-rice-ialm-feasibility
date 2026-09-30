@@ -1,0 +1,11 @@
+source_id,source_type,research_use,public_release_status,sanitization_note
+S01,Harvest/outcome workbook,32 plot observations; agronomic/yield variables,derived numeric data included,No personal information
+S02,Sep 2025 progress report,"field operations, chamber/AWD status, interim project stage",not redistributed,Contains staff identity/contact in original; omitted
+S03,May-Jul 2025 progress report,"setup chronology, chambers, fertilizer operations",not redistributed,Original retained outside public repo
+S04,Research proposal,factor definitions and experimental layout,not redistributed,Used for design reconstruction only
+S05,Plot-code mapping workbook,"maps 32 codes to L, IR, F, R labels",not redistributed,Used to reconstruct treatment codebook
+S06,Fertilizer application schedule,operational application log,not redistributed,Contains treatment-sensitive/proprietary details; withheld
+S07,32 growth workbooks,17 dates x 5 crop-growth variables per series,aggregated into unlinked long CSV,Treatment linkage unresolved
+S08,Data-record template,GHG/AWD/checklist schema,not redistributed,Contains no measured gas series
+S09,Field photographs,document monitoring infrastructure and crop stages,selected metadata-scrubbed images included,No images with clearly identifiable project personnel selected
+S01P,Sanitized public reconstruction of harvest/outcome source layout,reproducible source-to-clean data pipeline demonstration,included under data/raw_public/,Recreated from values already released in the portfolio; institutional original is not redistributed

@@ -1,0 +1,18 @@
+variable,type,definition,example,note
+plot_code,string,Unique plot observation code,L1IR1F1R1,"Encoded tillage, irrigation, nutrient treatment, replicate"
+tillage_code,categorical,Tillage factor code,L1,L1 two ploughings; L2 one ploughing
+irrigation_code,categorical,Irrigation factor code,IR2,IR1 normal irrigation; IR2 AWD
+fertilizer_code,categorical,Nutrient treatment code,F2,See treatment_codebook.csv; operational definitions not fully reconciled
+replicate_code,categorical,Plot replicate code,R1,R1 or R2
+plant_height_cm_early,numeric,Plant-height measure from outcome workbook,48.1,Exact measurement timing label was not specified in source workbook
+panicles_0_25m2,integer,Panicle count in nominal 50 cm x 50 cm sample,68,Source header states 50 cm x 50 cm
+productive_tillers_m2,numeric,Productive tillers / panicles per square metre,272,As reported in source workbook
+plant_height_cm_harvest,numeric,Average plant height at harvesting stage,111.6,cm
+fresh_weight_kg_plot,numeric,Fresh harvested weight per plot,12.9,kg/plot; one value is flagged for source verification
+ten_panicle_weight_g,numeric,Weight of 10 panicles,49,Source workbook did not explicitly print unit; interpreted as grams from agronomic context; verify before publication
+thousand_seed_weight_g,numeric,1000-seed weight,25.3,Source workbook did not explicitly print unit; interpreted as grams; verify before publication
+filled_grain_count,integer,Count of filled grains in recorded sample,1777,As reported
+filled_grain_weight_g,numeric,Filled grain weight in recorded sample,44.5,Source workbook did not explicitly print unit; interpreted as grams; verify
+unfilled_grain_count,integer,Count of unfilled grains in recorded sample,412,As reported
+unfilled_grain_weight_g,numeric,Unfilled grain weight in recorded sample,0.2,Source workbook did not explicitly print unit; interpreted as grams; verify
+dry_yield_kg_plot,numeric,Dry grain yield per plot,9.3,Primary agronomic endpoint used in current descriptive analysis

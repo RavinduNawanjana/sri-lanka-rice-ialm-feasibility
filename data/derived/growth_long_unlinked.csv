@@ -1,0 +1,2721 @@
+series_id,series_group,series_number,date,parameter,value
+C01,City,1,2025-07-16,Plant Height,38.4
+C01,City,1,2025-07-18,Plant Height,39.4
+C01,City,1,2025-07-21,Plant Height,43.6
+C01,City,1,2025-07-24,Plant Height,44.5
+C01,City,1,2025-07-28,Plant Height,49.6
+C01,City,1,2025-07-31,Plant Height,52.1
+C01,City,1,2025-08-07,Plant Height,57.7
+C01,City,1,2025-08-11,Plant Height,59.7
+C01,City,1,2025-08-14,Plant Height,62.5
+C01,City,1,2025-08-18,Plant Height,64.5
+C01,City,1,2025-08-21,Plant Height,67
+C01,City,1,2025-08-25,Plant Height,71
+C01,City,1,2025-08-28,Plant Height,74
+C01,City,1,2025-09-02,Plant Height,76.5
+C01,City,1,2025-09-05,Plant Height,79.1
+C01,City,1,2025-09-09,Plant Height,83.8
+C01,City,1,2025-09-12,Plant Height,86.7
+C01,City,1,2025-07-16,Number of Tillers,4
+C01,City,1,2025-07-18,Number of Tillers,1
+C01,City,1,2025-07-21,Number of Tillers,4
+C01,City,1,2025-07-24,Number of Tillers,2
+C01,City,1,2025-07-28,Number of Tillers,6
+C01,City,1,2025-07-31,Number of Tillers,5
+C01,City,1,2025-08-07,Number of Tillers,6
+C01,City,1,2025-08-11,Number of Tillers,5
+C01,City,1,2025-08-14,Number of Tillers,7
+C01,City,1,2025-08-18,Number of Tillers,6
+C01,City,1,2025-08-21,Number of Tillers,9
+C01,City,1,2025-08-25,Number of Tillers,9
+C01,City,1,2025-08-28,Number of Tillers,8
+C01,City,1,2025-09-02,Number of Tillers,10
+C01,City,1,2025-09-05,Number of Tillers,10
+C01,City,1,2025-09-09,Number of Tillers,11
+C01,City,1,2025-09-12,Number of Tillers,12
+C01,City,1,2025-07-16,Leaf Area Index,0.1
+C01,City,1,2025-07-18,Leaf Area Index,0.1
+C01,City,1,2025-07-21,Leaf Area Index,0.19
+C01,City,1,2025-07-24,Leaf Area Index,0.13
+C01,City,1,2025-07-28,Leaf Area Index,0.1
+C01,City,1,2025-07-31,Leaf Area Index,0.3
+C01,City,1,2025-08-07,Leaf Area Index,0.1
+C01,City,1,2025-08-11,Leaf Area Index,0.36
+C01,City,1,2025-08-14,Leaf Area Index,0.16
+C01,City,1,2025-08-18,Leaf Area Index,0.22
+C01,City,1,2025-08-21,Leaf Area Index,0.23
+C01,City,1,2025-08-25,Leaf Area Index,0.64
+C01,City,1,2025-08-28,Leaf Area Index,0.34
+C01,City,1,2025-09-02,Leaf Area Index,0.7
+C01,City,1,2025-09-05,Leaf Area Index,0.93
+C01,City,1,2025-09-09,Leaf Area Index,1.02
+C01,City,1,2025-09-12,Leaf Area Index,0.96
+C01,City,1,2025-07-16,Leaf length,30.3
+C01,City,1,2025-07-18,Leaf length,26.3
+C01,City,1,2025-07-21,Leaf length,28.4
+C01,City,1,2025-07-24,Leaf length,33.3
+C01,City,1,2025-07-28,Leaf length,35.2
+C01,City,1,2025-07-31,Leaf length,38.5
+C01,City,1,2025-08-07,Leaf length,42.2
+C01,City,1,2025-08-11,Leaf length,39.4
+C01,City,1,2025-08-14,Leaf length,44.5
+C01,City,1,2025-08-18,Leaf length,49.2
+C01,City,1,2025-08-21,Leaf length,47.2
+C01,City,1,2025-08-25,Leaf length,49
+C01,City,1,2025-08-28,Leaf length,50
+C01,City,1,2025-09-02,Leaf length,56
+C01,City,1,2025-09-05,Leaf length,58.5
+C01,City,1,2025-09-09,Leaf length,57.1
+C01,City,1,2025-09-12,Leaf length,59.3
+C01,City,1,2025-07-16,Leaf width,2.3
+C01,City,1,2025-07-18,Leaf width,2
+C01,City,1,2025-07-21,Leaf width,1.9
+C01,City,1,2025-07-24,Leaf width,2.5
+C01,City,1,2025-07-28,Leaf width,2.7
+C01,City,1,2025-07-31,Leaf width,2.7
+C01,City,1,2025-08-07,Leaf width,2.7
+C01,City,1,2025-08-11,Leaf width,2.8
+C01,City,1,2025-08-14,Leaf width,2.9
+C01,City,1,2025-08-18,Leaf width,3.4
+C01,City,1,2025-08-21,Leaf width,3.4
+C01,City,1,2025-08-25,Leaf width,3.3
+C01,City,1,2025-08-28,Leaf width,3.8
+C01,City,1,2025-09-02,Leaf width,3.8
+C01,City,1,2025-09-05,Leaf width,4.3
+C01,City,1,2025-09-09,Leaf width,4.4
+C01,City,1,2025-09-12,Leaf width,4.5
+C10,City,10,2025-07-16,Plant Height,40
+C10,City,10,2025-07-18,Plant Height,40.7
+C10,City,10,2025-07-21,Plant Height,42.6
+C10,City,10,2025-07-24,Plant Height,46.7
+C10,City,10,2025-07-28,Plant Height,49.6
+C10,City,10,2025-07-31,Plant Height,53.1
+C10,City,10,2025-08-07,Plant Height,57.9
+C10,City,10,2025-08-11,Plant Height,62.1
+C10,City,10,2025-08-14,Plant Height,61.1
+C10,City,10,2025-08-18,Plant Height,65.4
+C10,City,10,2025-08-21,Plant Height,69.7
+C10,City,10,2025-08-25,Plant Height,69.8
+C10,City,10,2025-08-28,Plant Height,72.3
+C10,City,10,2025-09-02,Plant Height,76.8
+C10,City,10,2025-09-05,Plant Height,78.9
+C10,City,10,2025-09-09,Plant Height,83.5
+C10,City,10,2025-09-12,Plant Height,87.4
+C10,City,10,2025-07-16,Number of Tillers,1
+C10,City,10,2025-07-18,Number of Tillers,4
+C10,City,10,2025-07-21,Number of Tillers,4
+C10,City,10,2025-07-24,Number of Tillers,5
+C10,City,10,2025-07-28,Number of Tillers,5
+C10,City,10,2025-07-31,Number of Tillers,5
+C10,City,10,2025-08-07,Number of Tillers,4
+C10,City,10,2025-08-11,Number of Tillers,8
+C10,City,10,2025-08-14,Number of Tillers,5
+C10,City,10,2025-08-18,Number of Tillers,6
+C10,City,10,2025-08-21,Number of Tillers,8
+C10,City,10,2025-08-25,Number of Tillers,9
+C10,City,10,2025-08-28,Number of Tillers,10
+C10,City,10,2025-09-02,Number of Tillers,8
+C10,City,10,2025-09-05,Number of Tillers,10
+C10,City,10,2025-09-09,Number of Tillers,11
+C10,City,10,2025-09-12,Number of Tillers,10
+C10,City,10,2025-07-16,Leaf Area Index,0.1
+C10,City,10,2025-07-18,Leaf Area Index,0.11
+C10,City,10,2025-07-21,Leaf Area Index,0.1
+C10,City,10,2025-07-24,Leaf Area Index,0.15
+C10,City,10,2025-07-28,Leaf Area Index,0.13
+C10,City,10,2025-07-31,Leaf Area Index,0.33
+C10,City,10,2025-08-07,Leaf Area Index,0.28
+C10,City,10,2025-08-11,Leaf Area Index,0.27
+C10,City,10,2025-08-14,Leaf Area Index,0.49
+C10,City,10,2025-08-18,Leaf Area Index,0.38
+C10,City,10,2025-08-21,Leaf Area Index,0.33
+C10,City,10,2025-08-25,Leaf Area Index,0.49
+C10,City,10,2025-08-28,Leaf Area Index,0.37
+C10,City,10,2025-09-02,Leaf Area Index,0.84
+C10,City,10,2025-09-05,Leaf Area Index,0.59
+C10,City,10,2025-09-09,Leaf Area Index,0.88
+C10,City,10,2025-09-12,Leaf Area Index,0.76
+C10,City,10,2025-07-16,Leaf length,28.3
+C10,City,10,2025-07-18,Leaf length,29.3
+C10,City,10,2025-07-21,Leaf length,31.8
+C10,City,10,2025-07-24,Leaf length,30.4
+C10,City,10,2025-07-28,Leaf length,36.6
+C10,City,10,2025-07-31,Leaf length,37.1
+C10,City,10,2025-08-07,Leaf length,41.3
+C10,City,10,2025-08-11,Leaf length,44.9
+C10,City,10,2025-08-14,Leaf length,45.8
+C10,City,10,2025-08-18,Leaf length,47.3
+C10,City,10,2025-08-21,Leaf length,49.2
+C10,City,10,2025-08-25,Leaf length,52.6
+C10,City,10,2025-08-28,Leaf length,52.5
+C10,City,10,2025-09-02,Leaf length,54.9
+C10,City,10,2025-09-05,Leaf length,54.5
+C10,City,10,2025-09-09,Leaf length,56.3
+C10,City,10,2025-09-12,Leaf length,59.8
+C10,City,10,2025-07-16,Leaf width,2.1
+C10,City,10,2025-07-18,Leaf width,2.3
+C10,City,10,2025-07-21,Leaf width,2.2
+C10,City,10,2025-07-24,Leaf width,2.5
+C10,City,10,2025-07-28,Leaf width,2.7
+C10,City,10,2025-07-31,Leaf width,2.6
+C10,City,10,2025-08-07,Leaf width,3.1
+C10,City,10,2025-08-11,Leaf width,2.9
+C10,City,10,2025-08-14,Leaf width,3.2
+C10,City,10,2025-08-18,Leaf width,3.5
+C10,City,10,2025-08-21,Leaf width,3.5
+C10,City,10,2025-08-25,Leaf width,3.8
+C10,City,10,2025-08-28,Leaf width,3.8
+C10,City,10,2025-09-02,Leaf width,3.9
+C10,City,10,2025-09-05,Leaf width,4.2
+C10,City,10,2025-09-09,Leaf width,3.9
+C10,City,10,2025-09-12,Leaf width,4.4
+C11,City,11,2025-07-16,Plant Height,30.4
+C11,City,11,2025-07-18,Plant Height,33.8
+C11,City,11,2025-07-21,Plant Height,37
+C11,City,11,2025-07-24,Plant Height,36.2
+C11,City,11,2025-07-28,Plant Height,41.6
+C11,City,11,2025-07-31,Plant Height,45
+C11,City,11,2025-08-07,Plant Height,49.4
+C11,City,11,2025-08-11,Plant Height,52.3
+C11,City,11,2025-08-14,Plant Height,56
+C11,City,11,2025-08-18,Plant Height,57.3
+C11,City,11,2025-08-21,Plant Height,62.1
+C11,City,11,2025-08-25,Plant Height,62.8
+C11,City,11,2025-08-28,Plant Height,66.6
+C11,City,11,2025-09-02,Plant Height,69.1
+C11,City,11,2025-09-05,Plant Height,71.4
+C11,City,11,2025-09-09,Plant Height,76.6
+C11,City,11,2025-09-12,Plant Height,78.4
+C11,City,11,2025-07-16,Number of Tillers,2
+C11,City,11,2025-07-18,Number of Tillers,3
+C11,City,11,2025-07-21,Number of Tillers,4
+C11,City,11,2025-07-24,Number of Tillers,1
+C11,City,11,2025-07-28,Number of Tillers,4
+C11,City,11,2025-07-31,Number of Tillers,2
+C11,City,11,2025-08-07,Number of Tillers,5
+C11,City,11,2025-08-11,Number of Tillers,7
+C11,City,11,2025-08-14,Number of Tillers,4
+C11,City,11,2025-08-18,Number of Tillers,6
+C11,City,11,2025-08-21,Number of Tillers,5
+C11,City,11,2025-08-25,Number of Tillers,7
+C11,City,11,2025-08-28,Number of Tillers,8
+C11,City,11,2025-09-02,Number of Tillers,7
+C11,City,11,2025-09-05,Number of Tillers,10
+C11,City,11,2025-09-09,Number of Tillers,11
+C11,City,11,2025-09-12,Number of Tillers,9
+C11,City,11,2025-07-16,Leaf Area Index,0.1
+C11,City,11,2025-07-18,Leaf Area Index,0.1
+C11,City,11,2025-07-21,Leaf Area Index,0.1
+C11,City,11,2025-07-24,Leaf Area Index,0.21
+C11,City,11,2025-07-28,Leaf Area Index,0.14
+C11,City,11,2025-07-31,Leaf Area Index,0.1
+C11,City,11,2025-08-07,Leaf Area Index,0.12
+C11,City,11,2025-08-11,Leaf Area Index,0.2
+C11,City,11,2025-08-14,Leaf Area Index,0.39
+C11,City,11,2025-08-18,Leaf Area Index,0.1
+C11,City,11,2025-08-21,Leaf Area Index,0.34
+C11,City,11,2025-08-25,Leaf Area Index,0.28
+C11,City,11,2025-08-28,Leaf Area Index,0.19
+C11,City,11,2025-09-02,Leaf Area Index,0.56
+C11,City,11,2025-09-05,Leaf Area Index,0.82
+C11,City,11,2025-09-09,Leaf Area Index,0.81
+C11,City,11,2025-09-12,Leaf Area Index,0.79
+C11,City,11,2025-07-16,Leaf length,22.9
+C11,City,11,2025-07-18,Leaf length,22.9
+C11,City,11,2025-07-21,Leaf length,25.4
+C11,City,11,2025-07-24,Leaf length,28
+C11,City,11,2025-07-28,Leaf length,26.3
+C11,City,11,2025-07-31,Leaf length,27.6
+C11,City,11,2025-08-07,Leaf length,33.1
+C11,City,11,2025-08-11,Leaf length,37.9
+C11,City,11,2025-08-14,Leaf length,40.3
+C11,City,11,2025-08-18,Leaf length,40.8
+C11,City,11,2025-08-21,Leaf length,45
+C11,City,11,2025-08-25,Leaf length,43.4
+C11,City,11,2025-08-28,Leaf length,43.8
+C11,City,11,2025-09-02,Leaf length,48.3
+C11,City,11,2025-09-05,Leaf length,53.5
+C11,City,11,2025-09-09,Leaf length,54.9
+C11,City,11,2025-09-12,Leaf length,57.2
+C11,City,11,2025-07-16,Leaf width,1.4
+C11,City,11,2025-07-18,Leaf width,1.9
+C11,City,11,2025-07-21,Leaf width,2
+C11,City,11,2025-07-24,Leaf width,1.9
+C11,City,11,2025-07-28,Leaf width,2.3
+C11,City,11,2025-07-31,Leaf width,2.2
+C11,City,11,2025-08-07,Leaf width,2.6
+C11,City,11,2025-08-11,Leaf width,2.4
+C11,City,11,2025-08-14,Leaf width,2.8
+C11,City,11,2025-08-18,Leaf width,2.9
+C11,City,11,2025-08-21,Leaf width,3.2
+C11,City,11,2025-08-25,Leaf width,3.2
+C11,City,11,2025-08-28,Leaf width,3.4
+C11,City,11,2025-09-02,Leaf width,3.6
+C11,City,11,2025-09-05,Leaf width,3.7
+C11,City,11,2025-09-09,Leaf width,4
+C11,City,11,2025-09-12,Leaf width,3.9
+C12,City,12,2025-07-16,Plant Height,52.7
+C12,City,12,2025-07-18,Plant Height,53.7
+C12,City,12,2025-07-21,Plant Height,58.4
+C12,City,12,2025-07-24,Plant Height,61.3
+C12,City,12,2025-07-28,Plant Height,62.2
+C12,City,12,2025-07-31,Plant Height,66.1
+C12,City,12,2025-08-07,Plant Height,70.6
+C12,City,12,2025-08-11,Plant Height,72.1
+C12,City,12,2025-08-14,Plant Height,77.3
+C12,City,12,2025-08-18,Plant Height,78.5
+C12,City,12,2025-08-21,Plant Height,81.2
+C12,City,12,2025-08-25,Plant Height,83.2
+C12,City,12,2025-08-28,Plant Height,86
+C12,City,12,2025-09-02,Plant Height,91
+C12,City,12,2025-09-05,Plant Height,92.3
+C12,City,12,2025-09-09,Plant Height,97
+C12,City,12,2025-09-12,Plant Height,99.4
+C12,City,12,2025-07-16,Number of Tillers,3
+C12,City,12,2025-07-18,Number of Tillers,5
+C12,City,12,2025-07-21,Number of Tillers,2
+C12,City,12,2025-07-24,Number of Tillers,6
+C12,City,12,2025-07-28,Number of Tillers,6
+C12,City,12,2025-07-31,Number of Tillers,7
+C12,City,12,2025-08-07,Number of Tillers,6
+C12,City,12,2025-08-11,Number of Tillers,8
+C12,City,12,2025-08-14,Number of Tillers,6
+C12,City,12,2025-08-18,Number of Tillers,8
+C12,City,12,2025-08-21,Number of Tillers,9
+C12,City,12,2025-08-25,Number of Tillers,7
+C12,City,12,2025-08-28,Number of Tillers,8
+C12,City,12,2025-09-02,Number of Tillers,10
+C12,City,12,2025-09-05,Number of Tillers,12
+C12,City,12,2025-09-09,Number of Tillers,10
+C12,City,12,2025-09-12,Number of Tillers,13
+C12,City,12,2025-07-16,Leaf Area Index,0.23
+C12,City,12,2025-07-18,Leaf Area Index,0.1
+C12,City,12,2025-07-21,Leaf Area Index,0.19
+C12,City,12,2025-07-24,Leaf Area Index,0.24
+C12,City,12,2025-07-28,Leaf Area Index,0.26
+C12,City,12,2025-07-31,Leaf Area Index,0.31
+C12,City,12,2025-08-07,Leaf Area Index,0.23
+C12,City,12,2025-08-11,Leaf Area Index,0.48
+C12,City,12,2025-08-14,Leaf Area Index,0.66
+C12,City,12,2025-08-18,Leaf Area Index,0.57
+C12,City,12,2025-08-21,Leaf Area Index,0.55
+C12,City,12,2025-08-25,Leaf Area Index,0.56
+C12,City,12,2025-08-28,Leaf Area Index,0.63
+C12,City,12,2025-09-02,Leaf Area Index,0.97
+C12,City,12,2025-09-05,Leaf Area Index,1.18
+C12,City,12,2025-09-09,Leaf Area Index,0.99
+C12,City,12,2025-09-12,Leaf Area Index,1.6
+C12,City,12,2025-07-16,Leaf length,37.2
+C12,City,12,2025-07-18,Leaf length,38.3
+C12,City,12,2025-07-21,Leaf length,38.1
+C12,City,12,2025-07-24,Leaf length,42
+C12,City,12,2025-07-28,Leaf length,46.4
+C12,City,12,2025-07-31,Leaf length,47.7
+C12,City,12,2025-08-07,Leaf length,47.6
+C12,City,12,2025-08-11,Leaf length,52.8
+C12,City,12,2025-08-14,Leaf length,50.7
+C12,City,12,2025-08-18,Leaf length,55.3
+C12,City,12,2025-08-21,Leaf length,60.1
+C12,City,12,2025-08-25,Leaf length,57.4
+C12,City,12,2025-08-28,Leaf length,59.4
+C12,City,12,2025-09-02,Leaf length,66.1
+C12,City,12,2025-09-05,Leaf length,66.2
+C12,City,12,2025-09-09,Leaf length,66.1
+C12,City,12,2025-09-12,Leaf length,71.7
+C12,City,12,2025-07-16,Leaf width,2.7
+C12,City,12,2025-07-18,Leaf width,2.8
+C12,City,12,2025-07-21,Leaf width,2.9
+C12,City,12,2025-07-24,Leaf width,2.9
+C12,City,12,2025-07-28,Leaf width,3.2
+C12,City,12,2025-07-31,Leaf width,3.5
+C12,City,12,2025-08-07,Leaf width,3.4
+C12,City,12,2025-08-11,Leaf width,3.9
+C12,City,12,2025-08-14,Leaf width,3.9
+C12,City,12,2025-08-18,Leaf width,3.9
+C12,City,12,2025-08-21,Leaf width,4.1
+C12,City,12,2025-08-25,Leaf width,4.2
+C12,City,12,2025-08-28,Leaf width,4.3
+C12,City,12,2025-09-02,Leaf width,4.5
+C12,City,12,2025-09-05,Leaf width,4.7
+C12,City,12,2025-09-09,Leaf width,4.7
+C12,City,12,2025-09-12,Leaf width,5.2
+C13,City,13,2025-07-16,Plant Height,53.1
+C13,City,13,2025-07-18,Plant Height,54.6
+C13,City,13,2025-07-21,Plant Height,55.2
+C13,City,13,2025-07-24,Plant Height,55.7
+C13,City,13,2025-07-28,Plant Height,60.1
+C13,City,13,2025-07-31,Plant Height,64.6
+C13,City,13,2025-08-07,Plant Height,70.2
+C13,City,13,2025-08-11,Plant Height,74
+C13,City,13,2025-08-14,Plant Height,74.3
+C13,City,13,2025-08-18,Plant Height,76.9
+C13,City,13,2025-08-21,Plant Height,81.9
+C13,City,13,2025-08-25,Plant Height,84.6
+C13,City,13,2025-08-28,Plant Height,85.2
+C13,City,13,2025-09-02,Plant Height,90.5
+C13,City,13,2025-09-05,Plant Height,90.9
+C13,City,13,2025-09-09,Plant Height,93.4
+C13,City,13,2025-09-12,Plant Height,97.9
+C13,City,13,2025-07-16,Number of Tillers,4
+C13,City,13,2025-07-18,Number of Tillers,4
+C13,City,13,2025-07-21,Number of Tillers,5
+C13,City,13,2025-07-24,Number of Tillers,5
+C13,City,13,2025-07-28,Number of Tillers,6
+C13,City,13,2025-07-31,Number of Tillers,5
+C13,City,13,2025-08-07,Number of Tillers,6
+C13,City,13,2025-08-11,Number of Tillers,7
+C13,City,13,2025-08-14,Number of Tillers,9
+C13,City,13,2025-08-18,Number of Tillers,7
+C13,City,13,2025-08-21,Number of Tillers,10
+C13,City,13,2025-08-25,Number of Tillers,10
+C13,City,13,2025-08-28,Number of Tillers,11
+C13,City,13,2025-09-02,Number of Tillers,9
+C13,City,13,2025-09-05,Number of Tillers,11
+C13,City,13,2025-09-09,Number of Tillers,10
+C13,City,13,2025-09-12,Number of Tillers,10
+C13,City,13,2025-07-16,Leaf Area Index,0.23
+C13,City,13,2025-07-18,Leaf Area Index,0.2
+C13,City,13,2025-07-21,Leaf Area Index,0.1
+C13,City,13,2025-07-24,Leaf Area Index,0.31
+C13,City,13,2025-07-28,Leaf Area Index,0.31
+C13,City,13,2025-07-31,Leaf Area Index,0.45
+C13,City,13,2025-08-07,Leaf Area Index,0.32
+C13,City,13,2025-08-11,Leaf Area Index,0.44
+C13,City,13,2025-08-14,Leaf Area Index,0.59
+C13,City,13,2025-08-18,Leaf Area Index,0.53
+C13,City,13,2025-08-21,Leaf Area Index,0.5
+C13,City,13,2025-08-25,Leaf Area Index,0.56
+C13,City,13,2025-08-28,Leaf Area Index,0.97
+C13,City,13,2025-09-02,Leaf Area Index,0.74
+C13,City,13,2025-09-05,Leaf Area Index,1.01
+C13,City,13,2025-09-09,Leaf Area Index,0.96
+C13,City,13,2025-09-12,Leaf Area Index,1.44
+C13,City,13,2025-07-16,Leaf length,33.5
+C13,City,13,2025-07-18,Leaf length,35.4
+C13,City,13,2025-07-21,Leaf length,37.8
+C13,City,13,2025-07-24,Leaf length,42.7
+C13,City,13,2025-07-28,Leaf length,44.4
+C13,City,13,2025-07-31,Leaf length,43.6
+C13,City,13,2025-08-07,Leaf length,49.3
+C13,City,13,2025-08-11,Leaf length,48.2
+C13,City,13,2025-08-14,Leaf length,54.3
+C13,City,13,2025-08-18,Leaf length,54
+C13,City,13,2025-08-21,Leaf length,56.9
+C13,City,13,2025-08-25,Leaf length,59.8
+C13,City,13,2025-08-28,Leaf length,58.4
+C13,City,13,2025-09-02,Leaf length,65.5
+C13,City,13,2025-09-05,Leaf length,61.9
+C13,City,13,2025-09-09,Leaf length,68.8
+C13,City,13,2025-09-12,Leaf length,71.1
+C13,City,13,2025-07-16,Leaf width,2.6
+C13,City,13,2025-07-18,Leaf width,2.7
+C13,City,13,2025-07-21,Leaf width,3
+C13,City,13,2025-07-24,Leaf width,2.8
+C13,City,13,2025-07-28,Leaf width,2.9
+C13,City,13,2025-07-31,Leaf width,3.3
+C13,City,13,2025-08-07,Leaf width,3.6
+C13,City,13,2025-08-11,Leaf width,3.4
+C13,City,13,2025-08-14,Leaf width,4
+C13,City,13,2025-08-18,Leaf width,3.6
+C13,City,13,2025-08-21,Leaf width,3.8
+C13,City,13,2025-08-25,Leaf width,4.1
+C13,City,13,2025-08-28,Leaf width,4.5
+C13,City,13,2025-09-02,Leaf width,4.3
+C13,City,13,2025-09-05,Leaf width,4.4
+C13,City,13,2025-09-09,Leaf width,4.8
+C13,City,13,2025-09-12,Leaf width,4.9
+C14,City,14,2025-07-16,Plant Height,29.7
+C14,City,14,2025-07-18,Plant Height,32.3
+C14,City,14,2025-07-21,Plant Height,35
+C14,City,14,2025-07-24,Plant Height,37
+C14,City,14,2025-07-28,Plant Height,39.2
+C14,City,14,2025-07-31,Plant Height,43.8
+C14,City,14,2025-08-07,Plant Height,50.1
+C14,City,14,2025-08-11,Plant Height,52.3
+C14,City,14,2025-08-14,Plant Height,55.6
+C14,City,14,2025-08-18,Plant Height,57.5
+C14,City,14,2025-08-21,Plant Height,59.4
+C14,City,14,2025-08-25,Plant Height,64.7
+C14,City,14,2025-08-28,Plant Height,66.6
+C14,City,14,2025-09-02,Plant Height,71.4
+C14,City,14,2025-09-05,Plant Height,72.7
+C14,City,14,2025-09-09,Plant Height,76.4
+C14,City,14,2025-09-12,Plant Height,77.7
+C14,City,14,2025-07-16,Number of Tillers,3
+C14,City,14,2025-07-18,Number of Tillers,4
+C14,City,14,2025-07-21,Number of Tillers,3
+C14,City,14,2025-07-24,Number of Tillers,1
+C14,City,14,2025-07-28,Number of Tillers,2
+C14,City,14,2025-07-31,Number of Tillers,5
+C14,City,14,2025-08-07,Number of Tillers,6
+C14,City,14,2025-08-11,Number of Tillers,5
+C14,City,14,2025-08-14,Number of Tillers,4
+C14,City,14,2025-08-18,Number of Tillers,5
+C14,City,14,2025-08-21,Number of Tillers,8
+C14,City,14,2025-08-25,Number of Tillers,7
+C14,City,14,2025-08-28,Number of Tillers,8
+C14,City,14,2025-09-02,Number of Tillers,7
+C14,City,14,2025-09-05,Number of Tillers,10
+C14,City,14,2025-09-09,Number of Tillers,10
+C14,City,14,2025-09-12,Number of Tillers,9
+C14,City,14,2025-07-16,Leaf Area Index,0.12
+C14,City,14,2025-07-18,Leaf Area Index,0.1
+C14,City,14,2025-07-21,Leaf Area Index,0.1
+C14,City,14,2025-07-24,Leaf Area Index,0.1
+C14,City,14,2025-07-28,Leaf Area Index,0.1
+C14,City,14,2025-07-31,Leaf Area Index,0.1
+C14,City,14,2025-08-07,Leaf Area Index,0.18
+C14,City,14,2025-08-11,Leaf Area Index,0.36
+C14,City,14,2025-08-14,Leaf Area Index,0.33
+C14,City,14,2025-08-18,Leaf Area Index,0.35
+C14,City,14,2025-08-21,Leaf Area Index,0.3
+C14,City,14,2025-08-25,Leaf Area Index,0.52
+C14,City,14,2025-08-28,Leaf Area Index,0.45
+C14,City,14,2025-09-02,Leaf Area Index,0.54
+C14,City,14,2025-09-05,Leaf Area Index,0.57
+C14,City,14,2025-09-09,Leaf Area Index,0.63
+C14,City,14,2025-09-12,Leaf Area Index,0.55
+C14,City,14,2025-07-16,Leaf length,22.2
+C14,City,14,2025-07-18,Leaf length,24.5
+C14,City,14,2025-07-21,Leaf length,25.5
+C14,City,14,2025-07-24,Leaf length,25.8
+C14,City,14,2025-07-28,Leaf length,29.6
+C14,City,14,2025-07-31,Leaf length,29.2
+C14,City,14,2025-08-07,Leaf length,36.7
+C14,City,14,2025-08-11,Leaf length,37.9
+C14,City,14,2025-08-14,Leaf length,38.1
+C14,City,14,2025-08-18,Leaf length,39
+C14,City,14,2025-08-21,Leaf length,45
+C14,City,14,2025-08-25,Leaf length,46
+C14,City,14,2025-08-28,Leaf length,44.2
+C14,City,14,2025-09-02,Leaf length,47.5
+C14,City,14,2025-09-05,Leaf length,52
+C14,City,14,2025-09-09,Leaf length,54.1
+C14,City,14,2025-09-12,Leaf length,56.5
+C14,City,14,2025-07-16,Leaf width,1.6
+C14,City,14,2025-07-18,Leaf width,1.6
+C14,City,14,2025-07-21,Leaf width,1.9
+C14,City,14,2025-07-24,Leaf width,1.9
+C14,City,14,2025-07-28,Leaf width,2.3
+C14,City,14,2025-07-31,Leaf width,1.9
+C14,City,14,2025-08-07,Leaf width,2.7
+C14,City,14,2025-08-11,Leaf width,2.6
+C14,City,14,2025-08-14,Leaf width,2.8
+C14,City,14,2025-08-18,Leaf width,2.7
+C14,City,14,2025-08-21,Leaf width,2.9
+C14,City,14,2025-08-25,Leaf width,3.1
+C14,City,14,2025-08-28,Leaf width,3.3
+C14,City,14,2025-09-02,Leaf width,3.7
+C14,City,14,2025-09-05,Leaf width,3.6
+C14,City,14,2025-09-09,Leaf width,4
+C14,City,14,2025-09-12,Leaf width,3.6
+C15,City,15,2025-07-16,Plant Height,45.4
+C15,City,15,2025-07-18,Plant Height,46.5
+C15,City,15,2025-07-21,Plant Height,50.3
+C15,City,15,2025-07-24,Plant Height,53
+C15,City,15,2025-07-28,Plant Height,53.3
+C15,City,15,2025-07-31,Plant Height,56.1
+C15,City,15,2025-08-07,Plant Height,63.1
+C15,City,15,2025-08-11,Plant Height,67.3
+C15,City,15,2025-08-14,Plant Height,68.4
+C15,City,15,2025-08-18,Plant Height,70.9
+C15,City,15,2025-08-21,Plant Height,74
+C15,City,15,2025-08-25,Plant Height,77.9
+C15,City,15,2025-08-28,Plant Height,80.8
+C15,City,15,2025-09-02,Plant Height,84.1
+C15,City,15,2025-09-05,Plant Height,86.9
+C15,City,15,2025-09-09,Plant Height,88.1
+C15,City,15,2025-09-12,Plant Height,91
+C15,City,15,2025-07-16,Number of Tillers,3
+C15,City,15,2025-07-18,Number of Tillers,2
+C15,City,15,2025-07-21,Number of Tillers,5
+C15,City,15,2025-07-24,Number of Tillers,5
+C15,City,15,2025-07-28,Number of Tillers,6
+C15,City,15,2025-07-31,Number of Tillers,5
+C15,City,15,2025-08-07,Number of Tillers,6
+C15,City,15,2025-08-11,Number of Tillers,6
+C15,City,15,2025-08-14,Number of Tillers,5
+C15,City,15,2025-08-18,Number of Tillers,6
+C15,City,15,2025-08-21,Number of Tillers,8
+C15,City,15,2025-08-25,Number of Tillers,9
+C15,City,15,2025-08-28,Number of Tillers,8
+C15,City,15,2025-09-02,Number of Tillers,10
+C15,City,15,2025-09-05,Number of Tillers,10
+C15,City,15,2025-09-09,Number of Tillers,11
+C15,City,15,2025-09-12,Number of Tillers,12
+C15,City,15,2025-07-16,Leaf Area Index,0.1
+C15,City,15,2025-07-18,Leaf Area Index,0.1
+C15,City,15,2025-07-21,Leaf Area Index,0.1
+C15,City,15,2025-07-24,Leaf Area Index,0.13
+C15,City,15,2025-07-28,Leaf Area Index,0.1
+C15,City,15,2025-07-31,Leaf Area Index,0.2
+C15,City,15,2025-08-07,Leaf Area Index,0.25
+C15,City,15,2025-08-11,Leaf Area Index,0.29
+C15,City,15,2025-08-14,Leaf Area Index,0.13
+C15,City,15,2025-08-18,Leaf Area Index,0.29
+C15,City,15,2025-08-21,Leaf Area Index,0.56
+C15,City,15,2025-08-25,Leaf Area Index,0.77
+C15,City,15,2025-08-28,Leaf Area Index,0.71
+C15,City,15,2025-09-02,Leaf Area Index,0.72
+C15,City,15,2025-09-05,Leaf Area Index,0.83
+C15,City,15,2025-09-09,Leaf Area Index,1.04
+C15,City,15,2025-09-12,Leaf Area Index,0.91
+C15,City,15,2025-07-16,Leaf length,34.6
+C15,City,15,2025-07-18,Leaf length,30.7
+C15,City,15,2025-07-21,Leaf length,37.1
+C15,City,15,2025-07-24,Leaf length,38.4
+C15,City,15,2025-07-28,Leaf length,36.9
+C15,City,15,2025-07-31,Leaf length,41.8
+C15,City,15,2025-08-07,Leaf length,46.4
+C15,City,15,2025-08-11,Leaf length,46.7
+C15,City,15,2025-08-14,Leaf length,45.4
+C15,City,15,2025-08-18,Leaf length,47.6
+C15,City,15,2025-08-21,Leaf length,49.4
+C15,City,15,2025-08-25,Leaf length,54.8
+C15,City,15,2025-08-28,Leaf length,55.5
+C15,City,15,2025-09-02,Leaf length,58.6
+C15,City,15,2025-09-05,Leaf length,59.5
+C15,City,15,2025-09-09,Leaf length,62.4
+C15,City,15,2025-09-12,Leaf length,63.2
+C15,City,15,2025-07-16,Leaf width,2.2
+C15,City,15,2025-07-18,Leaf width,2.2
+C15,City,15,2025-07-21,Leaf width,2.5
+C15,City,15,2025-07-24,Leaf width,2.5
+C15,City,15,2025-07-28,Leaf width,2.5
+C15,City,15,2025-07-31,Leaf width,2.8
+C15,City,15,2025-08-07,Leaf width,3
+C15,City,15,2025-08-11,Leaf width,3.4
+C15,City,15,2025-08-14,Leaf width,3.4
+C15,City,15,2025-08-18,Leaf width,3.7
+C15,City,15,2025-08-21,Leaf width,3.8
+C15,City,15,2025-08-25,Leaf width,3.7
+C15,City,15,2025-08-28,Leaf width,4.3
+C15,City,15,2025-09-02,Leaf width,4.2
+C15,City,15,2025-09-05,Leaf width,4.3
+C15,City,15,2025-09-09,Leaf width,4.4
+C15,City,15,2025-09-12,Leaf width,4.8
+C16,City,16,2025-07-16,Plant Height,36.5
+C16,City,16,2025-07-18,Plant Height,37.2
+C16,City,16,2025-07-21,Plant Height,40.9
+C16,City,16,2025-07-24,Plant Height,44.5
+C16,City,16,2025-07-28,Plant Height,46.7
+C16,City,16,2025-07-31,Plant Height,50.4
+C16,City,16,2025-08-07,Plant Height,53.9
+C16,City,16,2025-08-11,Plant Height,56.8
+C16,City,16,2025-08-14,Plant Height,61.5
+C16,City,16,2025-08-18,Plant Height,65.4
+C16,City,16,2025-08-21,Plant Height,65.5
+C16,City,16,2025-08-25,Plant Height,71
+C16,City,16,2025-08-28,Plant Height,70.5
+C16,City,16,2025-09-02,Plant Height,77.1
+C16,City,16,2025-09-05,Plant Height,77.2
+C16,City,16,2025-09-09,Plant Height,80
+C16,City,16,2025-09-12,Plant Height,84
+C16,City,16,2025-07-16,Number of Tillers,1
+C16,City,16,2025-07-18,Number of Tillers,4
+C16,City,16,2025-07-21,Number of Tillers,3
+C16,City,16,2025-07-24,Number of Tillers,5
+C16,City,16,2025-07-28,Number of Tillers,4
+C16,City,16,2025-07-31,Number of Tillers,4
+C16,City,16,2025-08-07,Number of Tillers,4
+C16,City,16,2025-08-11,Number of Tillers,7
+C16,City,16,2025-08-14,Number of Tillers,6
+C16,City,16,2025-08-18,Number of Tillers,7
+C16,City,16,2025-08-21,Number of Tillers,6
+C16,City,16,2025-08-25,Number of Tillers,9
+C16,City,16,2025-08-28,Number of Tillers,8
+C16,City,16,2025-09-02,Number of Tillers,7
+C16,City,16,2025-09-05,Number of Tillers,11
+C16,City,16,2025-09-09,Number of Tillers,11
+C16,City,16,2025-09-12,Number of Tillers,12
+C16,City,16,2025-07-16,Leaf Area Index,0.1
+C16,City,16,2025-07-18,Leaf Area Index,0.1
+C16,City,16,2025-07-21,Leaf Area Index,0.12
+C16,City,16,2025-07-24,Leaf Area Index,0.1
+C16,City,16,2025-07-28,Leaf Area Index,0.2
+C16,City,16,2025-07-31,Leaf Area Index,0.1
+C16,City,16,2025-08-07,Leaf Area Index,0.1
+C16,City,16,2025-08-11,Leaf Area Index,0.21
+C16,City,16,2025-08-14,Leaf Area Index,0.29
+C16,City,16,2025-08-18,Leaf Area Index,0.28
+C16,City,16,2025-08-21,Leaf Area Index,0.21
+C16,City,16,2025-08-25,Leaf Area Index,0.27
+C16,City,16,2025-08-28,Leaf Area Index,0.51
+C16,City,16,2025-09-02,Leaf Area Index,0.65
+C16,City,16,2025-09-05,Leaf Area Index,0.59
+C16,City,16,2025-09-09,Leaf Area Index,0.8
+C16,City,16,2025-09-12,Leaf Area Index,0.64
+C16,City,16,2025-07-16,Leaf length,25.8
+C16,City,16,2025-07-18,Leaf length,24.3
+C16,City,16,2025-07-21,Leaf length,27.5
+C16,City,16,2025-07-24,Leaf length,32.1
+C16,City,16,2025-07-28,Leaf length,30.3
+C16,City,16,2025-07-31,Leaf length,37.1
+C16,City,16,2025-08-07,Leaf length,39.7
+C16,City,16,2025-08-11,Leaf length,39.5
+C16,City,16,2025-08-14,Leaf length,39.8
+C16,City,16,2025-08-18,Leaf length,42.5
+C16,City,16,2025-08-21,Leaf length,49
+C16,City,16,2025-08-25,Leaf length,49
+C16,City,16,2025-08-28,Leaf length,48
+C16,City,16,2025-09-02,Leaf length,51.1
+C16,City,16,2025-09-05,Leaf length,54.9
+C16,City,16,2025-09-09,Leaf length,58.5
+C16,City,16,2025-09-12,Leaf length,56.9
+C16,City,16,2025-07-16,Leaf width,2
+C16,City,16,2025-07-18,Leaf width,1.8
+C16,City,16,2025-07-21,Leaf width,2.2
+C16,City,16,2025-07-24,Leaf width,2.4
+C16,City,16,2025-07-28,Leaf width,2.3
+C16,City,16,2025-07-31,Leaf width,2.7
+C16,City,16,2025-08-07,Leaf width,2.8
+C16,City,16,2025-08-11,Leaf width,2.6
+C16,City,16,2025-08-14,Leaf width,2.7
+C16,City,16,2025-08-18,Leaf width,3.1
+C16,City,16,2025-08-21,Leaf width,3.2
+C16,City,16,2025-08-25,Leaf width,3.6
+C16,City,16,2025-08-28,Leaf width,3.5
+C16,City,16,2025-09-02,Leaf width,3.7
+C16,City,16,2025-09-05,Leaf width,4
+C16,City,16,2025-09-09,Leaf width,4.2
+C16,City,16,2025-09-12,Leaf width,4.1
+C02,City,2,2025-07-16,Plant Height,44.6
+C02,City,2,2025-07-18,Plant Height,48.3
+C02,City,2,2025-07-21,Plant Height,51.2
+C02,City,2,2025-07-24,Plant Height,49.9
+C02,City,2,2025-07-28,Plant Height,54.2
+C02,City,2,2025-07-31,Plant Height,57
+C02,City,2,2025-08-07,Plant Height,63.4
+C02,City,2,2025-08-11,Plant Height,67.4
+C02,City,2,2025-08-14,Plant Height,69.4
+C02,City,2,2025-08-18,Plant Height,71.1
+C02,City,2,2025-08-21,Plant Height,72.8
+C02,City,2,2025-08-25,Plant Height,77.7
+C02,City,2,2025-08-28,Plant Height,81.2
+C02,City,2,2025-09-02,Plant Height,84.3
+C02,City,2,2025-09-05,Plant Height,85
+C02,City,2,2025-09-09,Plant Height,88.6
+C02,City,2,2025-09-12,Plant Height,90.4
+C02,City,2,2025-07-16,Number of Tillers,4
+C02,City,2,2025-07-18,Number of Tillers,1
+C02,City,2,2025-07-21,Number of Tillers,2
+C02,City,2,2025-07-24,Number of Tillers,4
+C02,City,2,2025-07-28,Number of Tillers,3
+C02,City,2,2025-07-31,Number of Tillers,6
+C02,City,2,2025-08-07,Number of Tillers,4
+C02,City,2,2025-08-11,Number of Tillers,5
+C02,City,2,2025-08-14,Number of Tillers,6
+C02,City,2,2025-08-18,Number of Tillers,6
+C02,City,2,2025-08-21,Number of Tillers,9
+C02,City,2,2025-08-25,Number of Tillers,7
+C02,City,2,2025-08-28,Number of Tillers,8
+C02,City,2,2025-09-02,Number of Tillers,8
+C02,City,2,2025-09-05,Number of Tillers,11
+C02,City,2,2025-09-09,Number of Tillers,11
+C02,City,2,2025-09-12,Number of Tillers,11
+C02,City,2,2025-07-16,Leaf Area Index,0.14
+C02,City,2,2025-07-18,Leaf Area Index,0.1
+C02,City,2,2025-07-21,Leaf Area Index,0.1
+C02,City,2,2025-07-24,Leaf Area Index,0.24
+C02,City,2,2025-07-28,Leaf Area Index,0.1
+C02,City,2,2025-07-31,Leaf Area Index,0.34
+C02,City,2,2025-08-07,Leaf Area Index,0.27
+C02,City,2,2025-08-11,Leaf Area Index,0.29
+C02,City,2,2025-08-14,Leaf Area Index,0.43
+C02,City,2,2025-08-18,Leaf Area Index,0.45
+C02,City,2,2025-08-21,Leaf Area Index,0.37
+C02,City,2,2025-08-25,Leaf Area Index,0.8
+C02,City,2,2025-08-28,Leaf Area Index,0.42
+C02,City,2,2025-09-02,Leaf Area Index,0.69
+C02,City,2,2025-09-05,Leaf Area Index,0.88
+C02,City,2,2025-09-09,Leaf Area Index,0.86
+C02,City,2,2025-09-12,Leaf Area Index,0.87
+C02,City,2,2025-07-16,Leaf length,32.3
+C02,City,2,2025-07-18,Leaf length,31.3
+C02,City,2,2025-07-21,Leaf length,36.8
+C02,City,2,2025-07-24,Leaf length,38.4
+C02,City,2,2025-07-28,Leaf length,41.3
+C02,City,2,2025-07-31,Leaf length,39.4
+C02,City,2,2025-08-07,Leaf length,43.1
+C02,City,2,2025-08-11,Leaf length,44.8
+C02,City,2,2025-08-14,Leaf length,47.9
+C02,City,2,2025-08-18,Leaf length,48.9
+C02,City,2,2025-08-21,Leaf length,50.1
+C02,City,2,2025-08-25,Leaf length,56.9
+C02,City,2,2025-08-28,Leaf length,53.6
+C02,City,2,2025-09-02,Leaf length,59.5
+C02,City,2,2025-09-05,Leaf length,61.1
+C02,City,2,2025-09-09,Leaf length,60.8
+C02,City,2,2025-09-12,Leaf length,64.3
+C02,City,2,2025-07-16,Leaf width,2.1
+C02,City,2,2025-07-18,Leaf width,2.3
+C02,City,2,2025-07-21,Leaf width,2.7
+C02,City,2,2025-07-24,Leaf width,2.7
+C02,City,2,2025-07-28,Leaf width,2.9
+C02,City,2,2025-07-31,Leaf width,2.8
+C02,City,2,2025-08-07,Leaf width,3.1
+C02,City,2,2025-08-11,Leaf width,3
+C02,City,2,2025-08-14,Leaf width,3.1
+C02,City,2,2025-08-18,Leaf width,3.4
+C02,City,2,2025-08-21,Leaf width,3.5
+C02,City,2,2025-08-25,Leaf width,4.1
+C02,City,2,2025-08-28,Leaf width,4
+C02,City,2,2025-09-02,Leaf width,3.9
+C02,City,2,2025-09-05,Leaf width,4.1
+C02,City,2,2025-09-09,Leaf width,4.4
+C02,City,2,2025-09-12,Leaf width,4.3
+C03,City,3,2025-07-16,Plant Height,38
+C03,City,3,2025-07-18,Plant Height,39
+C03,City,3,2025-07-21,Plant Height,39.8
+C03,City,3,2025-07-24,Plant Height,42.4
+C03,City,3,2025-07-28,Plant Height,48.7
+C03,City,3,2025-07-31,Plant Height,49.4
+C03,City,3,2025-08-07,Plant Height,56.8
+C03,City,3,2025-08-11,Plant Height,58.8
+C03,City,3,2025-08-14,Plant Height,61.5
+C03,City,3,2025-08-18,Plant Height,61.8
+C03,City,3,2025-08-21,Plant Height,67.3
+C03,City,3,2025-08-25,Plant Height,67.8
+C03,City,3,2025-08-28,Plant Height,72.4
+C03,City,3,2025-09-02,Plant Height,75.8
+C03,City,3,2025-09-05,Plant Height,77.2
+C03,City,3,2025-09-09,Plant Height,83.1
+C03,City,3,2025-09-12,Plant Height,82.5
+C03,City,3,2025-07-16,Number of Tillers,1
+C03,City,3,2025-07-18,Number of Tillers,1
+C03,City,3,2025-07-21,Number of Tillers,3
+C03,City,3,2025-07-24,Number of Tillers,3
+C03,City,3,2025-07-28,Number of Tillers,2
+C03,City,3,2025-07-31,Number of Tillers,5
+C03,City,3,2025-08-07,Number of Tillers,5
+C03,City,3,2025-08-11,Number of Tillers,5
+C03,City,3,2025-08-14,Number of Tillers,6
+C03,City,3,2025-08-18,Number of Tillers,5
+C03,City,3,2025-08-21,Number of Tillers,8
+C03,City,3,2025-08-25,Number of Tillers,8
+C03,City,3,2025-08-28,Number of Tillers,10
+C03,City,3,2025-09-02,Number of Tillers,9
+C03,City,3,2025-09-05,Number of Tillers,9
+C03,City,3,2025-09-09,Number of Tillers,10
+C03,City,3,2025-09-12,Number of Tillers,9
+C03,City,3,2025-07-16,Leaf Area Index,0.1
+C03,City,3,2025-07-18,Leaf Area Index,0.1
+C03,City,3,2025-07-21,Leaf Area Index,0.2
+C03,City,3,2025-07-24,Leaf Area Index,0.1
+C03,City,3,2025-07-28,Leaf Area Index,0.25
+C03,City,3,2025-07-31,Leaf Area Index,0.23
+C03,City,3,2025-08-07,Leaf Area Index,0.2
+C03,City,3,2025-08-11,Leaf Area Index,0.17
+C03,City,3,2025-08-14,Leaf Area Index,0.33
+C03,City,3,2025-08-18,Leaf Area Index,0.41
+C03,City,3,2025-08-21,Leaf Area Index,0.25
+C03,City,3,2025-08-25,Leaf Area Index,0.44
+C03,City,3,2025-08-28,Leaf Area Index,0.53
+C03,City,3,2025-09-02,Leaf Area Index,0.52
+C03,City,3,2025-09-05,Leaf Area Index,0.53
+C03,City,3,2025-09-09,Leaf Area Index,0.59
+C03,City,3,2025-09-12,Leaf Area Index,1.01
+C03,City,3,2025-07-16,Leaf length,28.1
+C03,City,3,2025-07-18,Leaf length,25.5
+C03,City,3,2025-07-21,Leaf length,27.7
+C03,City,3,2025-07-24,Leaf length,31.6
+C03,City,3,2025-07-28,Leaf length,30.1
+C03,City,3,2025-07-31,Leaf length,36.4
+C03,City,3,2025-08-07,Leaf length,40.2
+C03,City,3,2025-08-11,Leaf length,39.7
+C03,City,3,2025-08-14,Leaf length,41
+C03,City,3,2025-08-18,Leaf length,46.3
+C03,City,3,2025-08-21,Leaf length,46.8
+C03,City,3,2025-08-25,Leaf length,45.5
+C03,City,3,2025-08-28,Leaf length,50.5
+C03,City,3,2025-09-02,Leaf length,51.3
+C03,City,3,2025-09-05,Leaf length,56.2
+C03,City,3,2025-09-09,Leaf length,56.2
+C03,City,3,2025-09-12,Leaf length,57
+C03,City,3,2025-07-16,Leaf width,1.7
+C03,City,3,2025-07-18,Leaf width,1.8
+C03,City,3,2025-07-21,Leaf width,1.9
+C03,City,3,2025-07-24,Leaf width,2.3
+C03,City,3,2025-07-28,Leaf width,2.2
+C03,City,3,2025-07-31,Leaf width,2.3
+C03,City,3,2025-08-07,Leaf width,2.8
+C03,City,3,2025-08-11,Leaf width,2.7
+C03,City,3,2025-08-14,Leaf width,3.2
+C03,City,3,2025-08-18,Leaf width,3.1
+C03,City,3,2025-08-21,Leaf width,3.3
+C03,City,3,2025-08-25,Leaf width,3.3
+C03,City,3,2025-08-28,Leaf width,3.5
+C03,City,3,2025-09-02,Leaf width,3.5
+C03,City,3,2025-09-05,Leaf width,3.6
+C03,City,3,2025-09-09,Leaf width,4.1
+C03,City,3,2025-09-12,Leaf width,4.2
+C04,City,4,2025-07-16,Plant Height,51.4
+C04,City,4,2025-07-18,Plant Height,56.2
+C04,City,4,2025-07-21,Plant Height,56.1
+C04,City,4,2025-07-24,Plant Height,61.2
+C04,City,4,2025-07-28,Plant Height,64.3
+C04,City,4,2025-07-31,Plant Height,66.4
+C04,City,4,2025-08-07,Plant Height,68.7
+C04,City,4,2025-08-11,Plant Height,72.8
+C04,City,4,2025-08-14,Plant Height,75.9
+C04,City,4,2025-08-18,Plant Height,80.9
+C04,City,4,2025-08-21,Plant Height,80.7
+C04,City,4,2025-08-25,Plant Height,85
+C04,City,4,2025-08-28,Plant Height,85.6
+C04,City,4,2025-09-02,Plant Height,90.9
+C04,City,4,2025-09-05,Plant Height,95.2
+C04,City,4,2025-09-09,Plant Height,95.2
+C04,City,4,2025-09-12,Plant Height,98
+C04,City,4,2025-07-16,Number of Tillers,5
+C04,City,4,2025-07-18,Number of Tillers,4
+C04,City,4,2025-07-21,Number of Tillers,3
+C04,City,4,2025-07-24,Number of Tillers,4
+C04,City,4,2025-07-28,Number of Tillers,6
+C04,City,4,2025-07-31,Number of Tillers,7
+C04,City,4,2025-08-07,Number of Tillers,5
+C04,City,4,2025-08-11,Number of Tillers,6
+C04,City,4,2025-08-14,Number of Tillers,6
+C04,City,4,2025-08-18,Number of Tillers,9
+C04,City,4,2025-08-21,Number of Tillers,8
+C04,City,4,2025-08-25,Number of Tillers,7
+C04,City,4,2025-08-28,Number of Tillers,9
+C04,City,4,2025-09-02,Number of Tillers,11
+C04,City,4,2025-09-05,Number of Tillers,9
+C04,City,4,2025-09-09,Number of Tillers,11
+C04,City,4,2025-09-12,Number of Tillers,12
+C04,City,4,2025-07-16,Leaf Area Index,0.1
+C04,City,4,2025-07-18,Leaf Area Index,0.1
+C04,City,4,2025-07-21,Leaf Area Index,0.1
+C04,City,4,2025-07-24,Leaf Area Index,0.24
+C04,City,4,2025-07-28,Leaf Area Index,0.23
+C04,City,4,2025-07-31,Leaf Area Index,0.1
+C04,City,4,2025-08-07,Leaf Area Index,0.39
+C04,City,4,2025-08-11,Leaf Area Index,0.58
+C04,City,4,2025-08-14,Leaf Area Index,0.59
+C04,City,4,2025-08-18,Leaf Area Index,0.46
+C04,City,4,2025-08-21,Leaf Area Index,0.64
+C04,City,4,2025-08-25,Leaf Area Index,0.64
+C04,City,4,2025-08-28,Leaf Area Index,0.79
+C04,City,4,2025-09-02,Leaf Area Index,1.03
+C04,City,4,2025-09-05,Leaf Area Index,0.85
+C04,City,4,2025-09-09,Leaf Area Index,1.27
+C04,City,4,2025-09-12,Leaf Area Index,1.41
+C04,City,4,2025-07-16,Leaf length,35.8
+C04,City,4,2025-07-18,Leaf length,39.7
+C04,City,4,2025-07-21,Leaf length,38
+C04,City,4,2025-07-24,Leaf length,42.9
+C04,City,4,2025-07-28,Leaf length,41.1
+C04,City,4,2025-07-31,Leaf length,45.4
+C04,City,4,2025-08-07,Leaf length,49
+C04,City,4,2025-08-11,Leaf length,51.1
+C04,City,4,2025-08-14,Leaf length,55.3
+C04,City,4,2025-08-18,Leaf length,53.2
+C04,City,4,2025-08-21,Leaf length,58.1
+C04,City,4,2025-08-25,Leaf length,61.8
+C04,City,4,2025-08-28,Leaf length,64
+C04,City,4,2025-09-02,Leaf length,62.5
+C04,City,4,2025-09-05,Leaf length,67.6
+C04,City,4,2025-09-09,Leaf length,65.1
+C04,City,4,2025-09-12,Leaf length,72.2
+C04,City,4,2025-07-16,Leaf width,2.4
+C04,City,4,2025-07-18,Leaf width,2.4
+C04,City,4,2025-07-21,Leaf width,2.6
+C04,City,4,2025-07-24,Leaf width,2.8
+C04,City,4,2025-07-28,Leaf width,3.1
+C04,City,4,2025-07-31,Leaf width,3.1
+C04,City,4,2025-08-07,Leaf width,3.8
+C04,City,4,2025-08-11,Leaf width,3.9
+C04,City,4,2025-08-14,Leaf width,3.8
+C04,City,4,2025-08-18,Leaf width,3.8
+C04,City,4,2025-08-21,Leaf width,4.1
+C04,City,4,2025-08-25,Leaf width,4.1
+C04,City,4,2025-08-28,Leaf width,4.5
+C04,City,4,2025-09-02,Leaf width,4.8
+C04,City,4,2025-09-05,Leaf width,4.4
+C04,City,4,2025-09-09,Leaf width,5
+C04,City,4,2025-09-12,Leaf width,4.9
+C05,City,5,2025-07-16,Plant Height,41.2
+C05,City,5,2025-07-18,Plant Height,39.3
+C05,City,5,2025-07-21,Plant Height,44.2
+C05,City,5,2025-07-24,Plant Height,46.8
+C05,City,5,2025-07-28,Plant Height,47.6
+C05,City,5,2025-07-31,Plant Height,49.8
+C05,City,5,2025-08-07,Plant Height,56.9
+C05,City,5,2025-08-11,Plant Height,62.3
+C05,City,5,2025-08-14,Plant Height,63
+C05,City,5,2025-08-18,Plant Height,65.6
+C05,City,5,2025-08-21,Plant Height,68
+C05,City,5,2025-08-25,Plant Height,73.4
+C05,City,5,2025-08-28,Plant Height,73.2
+C05,City,5,2025-09-02,Plant Height,77.2
+C05,City,5,2025-09-05,Plant Height,81.3
+C05,City,5,2025-09-09,Plant Height,85.4
+C05,City,5,2025-09-12,Plant Height,86.2
+C05,City,5,2025-07-16,Number of Tillers,2
+C05,City,5,2025-07-18,Number of Tillers,4
+C05,City,5,2025-07-21,Number of Tillers,5
+C05,City,5,2025-07-24,Number of Tillers,4
+C05,City,5,2025-07-28,Number of Tillers,6
+C05,City,5,2025-07-31,Number of Tillers,5
+C05,City,5,2025-08-07,Number of Tillers,7
+C05,City,5,2025-08-11,Number of Tillers,6
+C05,City,5,2025-08-14,Number of Tillers,5
+C05,City,5,2025-08-18,Number of Tillers,8
+C05,City,5,2025-08-21,Number of Tillers,6
+C05,City,5,2025-08-25,Number of Tillers,10
+C05,City,5,2025-08-28,Number of Tillers,8
+C05,City,5,2025-09-02,Number of Tillers,11
+C05,City,5,2025-09-05,Number of Tillers,9
+C05,City,5,2025-09-09,Number of Tillers,11
+C05,City,5,2025-09-12,Number of Tillers,10
+C05,City,5,2025-07-16,Leaf Area Index,0.1
+C05,City,5,2025-07-18,Leaf Area Index,0.1
+C05,City,5,2025-07-21,Leaf Area Index,0.1
+C05,City,5,2025-07-24,Leaf Area Index,0.11
+C05,City,5,2025-07-28,Leaf Area Index,0.1
+C05,City,5,2025-07-31,Leaf Area Index,0.25
+C05,City,5,2025-08-07,Leaf Area Index,0.13
+C05,City,5,2025-08-11,Leaf Area Index,0.45
+C05,City,5,2025-08-14,Leaf Area Index,0.16
+C05,City,5,2025-08-18,Leaf Area Index,0.39
+C05,City,5,2025-08-21,Leaf Area Index,0.46
+C05,City,5,2025-08-25,Leaf Area Index,0.36
+C05,City,5,2025-08-28,Leaf Area Index,0.65
+C05,City,5,2025-09-02,Leaf Area Index,0.61
+C05,City,5,2025-09-05,Leaf Area Index,0.75
+C05,City,5,2025-09-09,Leaf Area Index,1.08
+C05,City,5,2025-09-12,Leaf Area Index,1.06
+C05,City,5,2025-07-16,Leaf length,26.3
+C05,City,5,2025-07-18,Leaf length,28
+C05,City,5,2025-07-21,Leaf length,27.9
+C05,City,5,2025-07-24,Leaf length,33
+C05,City,5,2025-07-28,Leaf length,32.3
+C05,City,5,2025-07-31,Leaf length,33.1
+C05,City,5,2025-08-07,Leaf length,37.7
+C05,City,5,2025-08-11,Leaf length,41.7
+C05,City,5,2025-08-14,Leaf length,41.5
+C05,City,5,2025-08-18,Leaf length,45
+C05,City,5,2025-08-21,Leaf length,48.6
+C05,City,5,2025-08-25,Leaf length,50.7
+C05,City,5,2025-08-28,Leaf length,48.9
+C05,City,5,2025-09-02,Leaf length,56.2
+C05,City,5,2025-09-05,Leaf length,57.1
+C05,City,5,2025-09-09,Leaf length,59.2
+C05,City,5,2025-09-12,Leaf length,61.6
+C05,City,5,2025-07-16,Leaf width,2.2
+C05,City,5,2025-07-18,Leaf width,2
+C05,City,5,2025-07-21,Leaf width,2
+C05,City,5,2025-07-24,Leaf width,2.4
+C05,City,5,2025-07-28,Leaf width,2.3
+C05,City,5,2025-07-31,Leaf width,2.4
+C05,City,5,2025-08-07,Leaf width,2.8
+C05,City,5,2025-08-11,Leaf width,3.1
+C05,City,5,2025-08-14,Leaf width,3
+C05,City,5,2025-08-18,Leaf width,3
+C05,City,5,2025-08-21,Leaf width,3.1
+C05,City,5,2025-08-25,Leaf width,3.5
+C05,City,5,2025-08-28,Leaf width,3.8
+C05,City,5,2025-09-02,Leaf width,4
+C05,City,5,2025-09-05,Leaf width,4.1
+C05,City,5,2025-09-09,Leaf width,4.5
+C05,City,5,2025-09-12,Leaf width,4.2
+C06,City,6,2025-07-16,Plant Height,48.7
+C06,City,6,2025-07-18,Plant Height,49.1
+C06,City,6,2025-07-21,Plant Height,52.5
+C06,City,6,2025-07-24,Plant Height,53.6
+C06,City,6,2025-07-28,Plant Height,57.9
+C06,City,6,2025-07-31,Plant Height,61
+C06,City,6,2025-08-07,Plant Height,67.5
+C06,City,6,2025-08-11,Plant Height,69.6
+C06,City,6,2025-08-14,Plant Height,72.7
+C06,City,6,2025-08-18,Plant Height,74.5
+C06,City,6,2025-08-21,Plant Height,75.4
+C06,City,6,2025-08-25,Plant Height,81.4
+C06,City,6,2025-08-28,Plant Height,82.5
+C06,City,6,2025-09-02,Plant Height,88.6
+C06,City,6,2025-09-05,Plant Height,90.7
+C06,City,6,2025-09-09,Plant Height,92.7
+C06,City,6,2025-09-12,Plant Height,96.5
+C06,City,6,2025-07-16,Number of Tillers,3
+C06,City,6,2025-07-18,Number of Tillers,4
+C06,City,6,2025-07-21,Number of Tillers,3
+C06,City,6,2025-07-24,Number of Tillers,3
+C06,City,6,2025-07-28,Number of Tillers,6
+C06,City,6,2025-07-31,Number of Tillers,3
+C06,City,6,2025-08-07,Number of Tillers,5
+C06,City,6,2025-08-11,Number of Tillers,6
+C06,City,6,2025-08-14,Number of Tillers,6
+C06,City,6,2025-08-18,Number of Tillers,9
+C06,City,6,2025-08-21,Number of Tillers,9
+C06,City,6,2025-08-25,Number of Tillers,7
+C06,City,6,2025-08-28,Number of Tillers,9
+C06,City,6,2025-09-02,Number of Tillers,9
+C06,City,6,2025-09-05,Number of Tillers,9
+C06,City,6,2025-09-09,Number of Tillers,9
+C06,City,6,2025-09-12,Number of Tillers,13
+C06,City,6,2025-07-16,Leaf Area Index,0.19
+C06,City,6,2025-07-18,Leaf Area Index,0.1
+C06,City,6,2025-07-21,Leaf Area Index,0.1
+C06,City,6,2025-07-24,Leaf Area Index,0.15
+C06,City,6,2025-07-28,Leaf Area Index,0.1
+C06,City,6,2025-07-31,Leaf Area Index,0.24
+C06,City,6,2025-08-07,Leaf Area Index,0.4
+C06,City,6,2025-08-11,Leaf Area Index,0.22
+C06,City,6,2025-08-14,Leaf Area Index,0.29
+C06,City,6,2025-08-18,Leaf Area Index,0.61
+C06,City,6,2025-08-21,Leaf Area Index,0.45
+C06,City,6,2025-08-25,Leaf Area Index,0.71
+C06,City,6,2025-08-28,Leaf Area Index,0.87
+C06,City,6,2025-09-02,Leaf Area Index,0.81
+C06,City,6,2025-09-05,Leaf Area Index,1.03
+C06,City,6,2025-09-09,Leaf Area Index,0.87
+C06,City,6,2025-09-12,Leaf Area Index,1.24
+C06,City,6,2025-07-16,Leaf length,32.3
+C06,City,6,2025-07-18,Leaf length,32.7
+C06,City,6,2025-07-21,Leaf length,37.5
+C06,City,6,2025-07-24,Leaf length,37.9
+C06,City,6,2025-07-28,Leaf length,38.8
+C06,City,6,2025-07-31,Leaf length,43
+C06,City,6,2025-08-07,Leaf length,46
+C06,City,6,2025-08-11,Leaf length,47.8
+C06,City,6,2025-08-14,Leaf length,49.4
+C06,City,6,2025-08-18,Leaf length,51.5
+C06,City,6,2025-08-21,Leaf length,51.9
+C06,City,6,2025-08-25,Leaf length,53.4
+C06,City,6,2025-08-28,Leaf length,57.7
+C06,City,6,2025-09-02,Leaf length,58.5
+C06,City,6,2025-09-05,Leaf length,59.8
+C06,City,6,2025-09-09,Leaf length,64.3
+C06,City,6,2025-09-12,Leaf length,67.2
+C06,City,6,2025-07-16,Leaf width,2.2
+C06,City,6,2025-07-18,Leaf width,2.6
+C06,City,6,2025-07-21,Leaf width,2.6
+C06,City,6,2025-07-24,Leaf width,2.5
+C06,City,6,2025-07-28,Leaf width,3
+C06,City,6,2025-07-31,Leaf width,2.8
+C06,City,6,2025-08-07,Leaf width,3.4
+C06,City,6,2025-08-11,Leaf width,3.8
+C06,City,6,2025-08-14,Leaf width,3.7
+C06,City,6,2025-08-18,Leaf width,3.9
+C06,City,6,2025-08-21,Leaf width,4.1
+C06,City,6,2025-08-25,Leaf width,4
+C06,City,6,2025-08-28,Leaf width,4.2
+C06,City,6,2025-09-02,Leaf width,4.5
+C06,City,6,2025-09-05,Leaf width,4.4
+C06,City,6,2025-09-09,Leaf width,4.4
+C06,City,6,2025-09-12,Leaf width,4.5
+C07,City,7,2025-07-16,Plant Height,45
+C07,City,7,2025-07-18,Plant Height,45.9
+C07,City,7,2025-07-21,Plant Height,48.9
+C07,City,7,2025-07-24,Plant Height,50.1
+C07,City,7,2025-07-28,Plant Height,54.3
+C07,City,7,2025-07-31,Plant Height,54.6
+C07,City,7,2025-08-07,Plant Height,60.4
+C07,City,7,2025-08-11,Plant Height,65.4
+C07,City,7,2025-08-14,Plant Height,67.5
+C07,City,7,2025-08-18,Plant Height,70.1
+C07,City,7,2025-08-21,Plant Height,73.8
+C07,City,7,2025-08-25,Plant Height,74.9
+C07,City,7,2025-08-28,Plant Height,77.1
+C07,City,7,2025-09-02,Plant Height,83.7
+C07,City,7,2025-09-05,Plant Height,85.1
+C07,City,7,2025-09-09,Plant Height,86.8
+C07,City,7,2025-09-12,Plant Height,91.1
+C07,City,7,2025-07-16,Number of Tillers,2
+C07,City,7,2025-07-18,Number of Tillers,3
+C07,City,7,2025-07-21,Number of Tillers,4
+C07,City,7,2025-07-24,Number of Tillers,4
+C07,City,7,2025-07-28,Number of Tillers,5
+C07,City,7,2025-07-31,Number of Tillers,4
+C07,City,7,2025-08-07,Number of Tillers,4
+C07,City,7,2025-08-11,Number of Tillers,7
+C07,City,7,2025-08-14,Number of Tillers,5
+C07,City,7,2025-08-18,Number of Tillers,6
+C07,City,7,2025-08-21,Number of Tillers,8
+C07,City,7,2025-08-25,Number of Tillers,10
+C07,City,7,2025-08-28,Number of Tillers,10
+C07,City,7,2025-09-02,Number of Tillers,11
+C07,City,7,2025-09-05,Number of Tillers,10
+C07,City,7,2025-09-09,Number of Tillers,12
+C07,City,7,2025-09-12,Number of Tillers,10
+C07,City,7,2025-07-16,Leaf Area Index,0.1
+C07,City,7,2025-07-18,Leaf Area Index,0.1
+C07,City,7,2025-07-21,Leaf Area Index,0.1
+C07,City,7,2025-07-24,Leaf Area Index,0.26
+C07,City,7,2025-07-28,Leaf Area Index,0.19
+C07,City,7,2025-07-31,Leaf Area Index,0.16
+C07,City,7,2025-08-07,Leaf Area Index,0.18
+C07,City,7,2025-08-11,Leaf Area Index,0.24
+C07,City,7,2025-08-14,Leaf Area Index,0.34
+C07,City,7,2025-08-18,Leaf Area Index,0.27
+C07,City,7,2025-08-21,Leaf Area Index,0.32
+C07,City,7,2025-08-25,Leaf Area Index,0.6
+C07,City,7,2025-08-28,Leaf Area Index,0.61
+C07,City,7,2025-09-02,Leaf Area Index,0.59
+C07,City,7,2025-09-05,Leaf Area Index,1
+C07,City,7,2025-09-09,Leaf Area Index,0.94
+C07,City,7,2025-09-12,Leaf Area Index,1.04
+C07,City,7,2025-07-16,Leaf length,30.1
+C07,City,7,2025-07-18,Leaf length,31.8
+C07,City,7,2025-07-21,Leaf length,33
+C07,City,7,2025-07-24,Leaf length,37.1
+C07,City,7,2025-07-28,Leaf length,39.7
+C07,City,7,2025-07-31,Leaf length,41.4
+C07,City,7,2025-08-07,Leaf length,45.5
+C07,City,7,2025-08-11,Leaf length,45.8
+C07,City,7,2025-08-14,Leaf length,46.3
+C07,City,7,2025-08-18,Leaf length,47
+C07,City,7,2025-08-21,Leaf length,49
+C07,City,7,2025-08-25,Leaf length,52.4
+C07,City,7,2025-08-28,Leaf length,57
+C07,City,7,2025-09-02,Leaf length,58.5
+C07,City,7,2025-09-05,Leaf length,60.3
+C07,City,7,2025-09-09,Leaf length,59.5
+C07,City,7,2025-09-12,Leaf length,60.7
+C07,City,7,2025-07-16,Leaf width,2.3
+C07,City,7,2025-07-18,Leaf width,2.5
+C07,City,7,2025-07-21,Leaf width,2.3
+C07,City,7,2025-07-24,Leaf width,2.5
+C07,City,7,2025-07-28,Leaf width,2.9
+C07,City,7,2025-07-31,Leaf width,3
+C07,City,7,2025-08-07,Leaf width,2.9
+C07,City,7,2025-08-11,Leaf width,3.1
+C07,City,7,2025-08-14,Leaf width,3.1
+C07,City,7,2025-08-18,Leaf width,3.6
+C07,City,7,2025-08-21,Leaf width,3.5
+C07,City,7,2025-08-25,Leaf width,3.7
+C07,City,7,2025-08-28,Leaf width,4
+C07,City,7,2025-09-02,Leaf width,3.9
+C07,City,7,2025-09-05,Leaf width,4.2
+C07,City,7,2025-09-09,Leaf width,4.5
+C07,City,7,2025-09-12,Leaf width,4.6
+C08,City,8,2025-07-16,Plant Height,50.3
+C08,City,8,2025-07-18,Plant Height,54.1
+C08,City,8,2025-07-21,Plant Height,55.1
+C08,City,8,2025-07-24,Plant Height,56.4
+C08,City,8,2025-07-28,Plant Height,62.5
+C08,City,8,2025-07-31,Plant Height,65.6
+C08,City,8,2025-08-07,Plant Height,67.6
+C08,City,8,2025-08-11,Plant Height,70.6
+C08,City,8,2025-08-14,Plant Height,75.2
+C08,City,8,2025-08-18,Plant Height,77.7
+C08,City,8,2025-08-21,Plant Height,81.4
+C08,City,8,2025-08-25,Plant Height,82
+C08,City,8,2025-08-28,Plant Height,87
+C08,City,8,2025-09-02,Plant Height,90.6
+C08,City,8,2025-09-05,Plant Height,94.3
+C08,City,8,2025-09-09,Plant Height,96.1
+C08,City,8,2025-09-12,Plant Height,96.8
+C08,City,8,2025-07-16,Number of Tillers,3
+C08,City,8,2025-07-18,Number of Tillers,5
+C08,City,8,2025-07-21,Number of Tillers,2
+C08,City,8,2025-07-24,Number of Tillers,4
+C08,City,8,2025-07-28,Number of Tillers,4
+C08,City,8,2025-07-31,Number of Tillers,6
+C08,City,8,2025-08-07,Number of Tillers,7
+C08,City,8,2025-08-11,Number of Tillers,6
+C08,City,8,2025-08-14,Number of Tillers,9
+C08,City,8,2025-08-18,Number of Tillers,8
+C08,City,8,2025-08-21,Number of Tillers,9
+C08,City,8,2025-08-25,Number of Tillers,9
+C08,City,8,2025-08-28,Number of Tillers,11
+C08,City,8,2025-09-02,Number of Tillers,10
+C08,City,8,2025-09-05,Number of Tillers,12
+C08,City,8,2025-09-09,Number of Tillers,11
+C08,City,8,2025-09-12,Number of Tillers,12
+C08,City,8,2025-07-16,Leaf Area Index,0.27
+C08,City,8,2025-07-18,Leaf Area Index,0.29
+C08,City,8,2025-07-21,Leaf Area Index,0.17
+C08,City,8,2025-07-24,Leaf Area Index,0.18
+C08,City,8,2025-07-28,Leaf Area Index,0.23
+C08,City,8,2025-07-31,Leaf Area Index,0.17
+C08,City,8,2025-08-07,Leaf Area Index,0.5
+C08,City,8,2025-08-11,Leaf Area Index,0.3
+C08,City,8,2025-08-14,Leaf Area Index,0.58
+C08,City,8,2025-08-18,Leaf Area Index,0.46
+C08,City,8,2025-08-21,Leaf Area Index,0.76
+C08,City,8,2025-08-25,Leaf Area Index,0.73
+C08,City,8,2025-08-28,Leaf Area Index,0.62
+C08,City,8,2025-09-02,Leaf Area Index,1.09
+C08,City,8,2025-09-05,Leaf Area Index,0.88
+C08,City,8,2025-09-09,Leaf Area Index,1.16
+C08,City,8,2025-09-12,Leaf Area Index,1.4
+C08,City,8,2025-07-16,Leaf length,37.3
+C08,City,8,2025-07-18,Leaf length,40
+C08,City,8,2025-07-21,Leaf length,39.9
+C08,City,8,2025-07-24,Leaf length,37.9
+C08,City,8,2025-07-28,Leaf length,43.8
+C08,City,8,2025-07-31,Leaf length,47.3
+C08,City,8,2025-08-07,Leaf length,47.4
+C08,City,8,2025-08-11,Leaf length,48.5
+C08,City,8,2025-08-14,Leaf length,52.7
+C08,City,8,2025-08-18,Leaf length,53.2
+C08,City,8,2025-08-21,Leaf length,57.9
+C08,City,8,2025-08-25,Leaf length,56.1
+C08,City,8,2025-08-28,Leaf length,61.6
+C08,City,8,2025-09-02,Leaf length,61.7
+C08,City,8,2025-09-05,Leaf length,65.3
+C08,City,8,2025-09-09,Leaf length,65.9
+C08,City,8,2025-09-12,Leaf length,65.8
+C08,City,8,2025-07-16,Leaf width,2.6
+C08,City,8,2025-07-18,Leaf width,3
+C08,City,8,2025-07-21,Leaf width,2.8
+C08,City,8,2025-07-24,Leaf width,2.9
+C08,City,8,2025-07-28,Leaf width,2.8
+C08,City,8,2025-07-31,Leaf width,3.1
+C08,City,8,2025-08-07,Leaf width,3.3
+C08,City,8,2025-08-11,Leaf width,3.8
+C08,City,8,2025-08-14,Leaf width,3.5
+C08,City,8,2025-08-18,Leaf width,3.7
+C08,City,8,2025-08-21,Leaf width,4.3
+C08,City,8,2025-08-25,Leaf width,4.2
+C08,City,8,2025-08-28,Leaf width,4.1
+C08,City,8,2025-09-02,Leaf width,4.7
+C08,City,8,2025-09-05,Leaf width,4.6
+C08,City,8,2025-09-09,Leaf width,4.9
+C08,City,8,2025-09-12,Leaf width,5
+C09,City,9,2025-07-16,Plant Height,49.8
+C09,City,9,2025-07-18,Plant Height,55.2
+C09,City,9,2025-07-21,Plant Height,56.8
+C09,City,9,2025-07-24,Plant Height,59.3
+C09,City,9,2025-07-28,Plant Height,62.7
+C09,City,9,2025-07-31,Plant Height,64.7
+C09,City,9,2025-08-07,Plant Height,69.3
+C09,City,9,2025-08-11,Plant Height,71.1
+C09,City,9,2025-08-14,Plant Height,75
+C09,City,9,2025-08-18,Plant Height,76.8
+C09,City,9,2025-08-21,Plant Height,80.1
+C09,City,9,2025-08-25,Plant Height,82.3
+C09,City,9,2025-08-28,Plant Height,85.4
+C09,City,9,2025-09-02,Plant Height,89.8
+C09,City,9,2025-09-05,Plant Height,92.4
+C09,City,9,2025-09-09,Plant Height,94
+C09,City,9,2025-09-12,Plant Height,96.4
+C09,City,9,2025-07-16,Number of Tillers,5
+C09,City,9,2025-07-18,Number of Tillers,2
+C09,City,9,2025-07-21,Number of Tillers,3
+C09,City,9,2025-07-24,Number of Tillers,6
+C09,City,9,2025-07-28,Number of Tillers,4
+C09,City,9,2025-07-31,Number of Tillers,7
+C09,City,9,2025-08-07,Number of Tillers,5
+C09,City,9,2025-08-11,Number of Tillers,8
+C09,City,9,2025-08-14,Number of Tillers,9
+C09,City,9,2025-08-18,Number of Tillers,6
+C09,City,9,2025-08-21,Number of Tillers,9
+C09,City,9,2025-08-25,Number of Tillers,7
+C09,City,9,2025-08-28,Number of Tillers,11
+C09,City,9,2025-09-02,Number of Tillers,9
+C09,City,9,2025-09-05,Number of Tillers,9
+C09,City,9,2025-09-09,Number of Tillers,9
+C09,City,9,2025-09-12,Number of Tillers,12
+C09,City,9,2025-07-16,Leaf Area Index,0.1
+C09,City,9,2025-07-18,Leaf Area Index,0.1
+C09,City,9,2025-07-21,Leaf Area Index,0.13
+C09,City,9,2025-07-24,Leaf Area Index,0.31
+C09,City,9,2025-07-28,Leaf Area Index,0.1
+C09,City,9,2025-07-31,Leaf Area Index,0.18
+C09,City,9,2025-08-07,Leaf Area Index,0.53
+C09,City,9,2025-08-11,Leaf Area Index,0.28
+C09,City,9,2025-08-14,Leaf Area Index,0.54
+C09,City,9,2025-08-18,Leaf Area Index,0.4
+C09,City,9,2025-08-21,Leaf Area Index,0.55
+C09,City,9,2025-08-25,Leaf Area Index,0.87
+C09,City,9,2025-08-28,Leaf Area Index,0.95
+C09,City,9,2025-09-02,Leaf Area Index,1.02
+C09,City,9,2025-09-05,Leaf Area Index,0.94
+C09,City,9,2025-09-09,Leaf Area Index,1.15
+C09,City,9,2025-09-12,Leaf Area Index,1.14
+C09,City,9,2025-07-16,Leaf length,37
+C09,City,9,2025-07-18,Leaf length,39.4
+C09,City,9,2025-07-21,Leaf length,38
+C09,City,9,2025-07-24,Leaf length,40.8
+C09,City,9,2025-07-28,Leaf length,42.8
+C09,City,9,2025-07-31,Leaf length,42.1
+C09,City,9,2025-08-07,Leaf length,49.9
+C09,City,9,2025-08-11,Leaf length,51.5
+C09,City,9,2025-08-14,Leaf length,53.6
+C09,City,9,2025-08-18,Leaf length,54.8
+C09,City,9,2025-08-21,Leaf length,56.1
+C09,City,9,2025-08-25,Leaf length,57.9
+C09,City,9,2025-08-28,Leaf length,61.5
+C09,City,9,2025-09-02,Leaf length,65.8
+C09,City,9,2025-09-05,Leaf length,63.6
+C09,City,9,2025-09-09,Leaf length,66.3
+C09,City,9,2025-09-12,Leaf length,68.6
+C09,City,9,2025-07-16,Leaf width,2.7
+C09,City,9,2025-07-18,Leaf width,2.8
+C09,City,9,2025-07-21,Leaf width,2.8
+C09,City,9,2025-07-24,Leaf width,2.7
+C09,City,9,2025-07-28,Leaf width,3.3
+C09,City,9,2025-07-31,Leaf width,3.4
+C09,City,9,2025-08-07,Leaf width,3.6
+C09,City,9,2025-08-11,Leaf width,3.9
+C09,City,9,2025-08-14,Leaf width,4
+C09,City,9,2025-08-18,Leaf width,3.9
+C09,City,9,2025-08-21,Leaf width,3.8
+C09,City,9,2025-08-25,Leaf width,4.2
+C09,City,9,2025-08-28,Leaf width,4.6
+C09,City,9,2025-09-02,Leaf width,4.4
+C09,City,9,2025-09-05,Leaf width,4.9
+C09,City,9,2025-09-09,Leaf width,4.5
+C09,City,9,2025-09-12,Leaf width,4.6
+F01,Facility,1,2025-07-16,Plant Height,41.6
+F01,Facility,1,2025-07-18,Plant Height,47.1
+F01,Facility,1,2025-07-21,Plant Height,48.4
+F01,Facility,1,2025-07-24,Plant Height,49.2
+F01,Facility,1,2025-07-28,Plant Height,54.4
+F01,Facility,1,2025-07-31,Plant Height,54
+F01,Facility,1,2025-08-07,Plant Height,60.9
+F01,Facility,1,2025-08-11,Plant Height,63.9
+F01,Facility,1,2025-08-14,Plant Height,65.4
+F01,Facility,1,2025-08-18,Plant Height,69.5
+F01,Facility,1,2025-08-21,Plant Height,71.6
+F01,Facility,1,2025-08-25,Plant Height,76
+F01,Facility,1,2025-08-28,Plant Height,76.2
+F01,Facility,1,2025-09-02,Plant Height,80.1
+F01,Facility,1,2025-09-05,Plant Height,83.5
+F01,Facility,1,2025-09-09,Plant Height,87.9
+F01,Facility,1,2025-09-12,Plant Height,90.4
+F01,Facility,1,2025-07-16,Number of Tillers,2
+F01,Facility,1,2025-07-18,Number of Tillers,1
+F01,Facility,1,2025-07-21,Number of Tillers,4
+F01,Facility,1,2025-07-24,Number of Tillers,3
+F01,Facility,1,2025-07-28,Number of Tillers,3
+F01,Facility,1,2025-07-31,Number of Tillers,3
+F01,Facility,1,2025-08-07,Number of Tillers,6
+F01,Facility,1,2025-08-11,Number of Tillers,7
+F01,Facility,1,2025-08-14,Number of Tillers,8
+F01,Facility,1,2025-08-18,Number of Tillers,7
+F01,Facility,1,2025-08-21,Number of Tillers,8
+F01,Facility,1,2025-08-25,Number of Tillers,8
+F01,Facility,1,2025-08-28,Number of Tillers,10
+F01,Facility,1,2025-09-02,Number of Tillers,10
+F01,Facility,1,2025-09-05,Number of Tillers,9
+F01,Facility,1,2025-09-09,Number of Tillers,9
+F01,Facility,1,2025-09-12,Number of Tillers,12
+F01,Facility,1,2025-07-16,Leaf Area Index,0.1
+F01,Facility,1,2025-07-18,Leaf Area Index,0.1
+F01,Facility,1,2025-07-21,Leaf Area Index,0.11
+F01,Facility,1,2025-07-24,Leaf Area Index,0.22
+F01,Facility,1,2025-07-28,Leaf Area Index,0.27
+F01,Facility,1,2025-07-31,Leaf Area Index,0.1
+F01,Facility,1,2025-08-07,Leaf Area Index,0.13
+F01,Facility,1,2025-08-11,Leaf Area Index,0.42
+F01,Facility,1,2025-08-14,Leaf Area Index,0.32
+F01,Facility,1,2025-08-18,Leaf Area Index,0.3
+F01,Facility,1,2025-08-21,Leaf Area Index,0.47
+F01,Facility,1,2025-08-25,Leaf Area Index,0.64
+F01,Facility,1,2025-08-28,Leaf Area Index,0.46
+F01,Facility,1,2025-09-02,Leaf Area Index,0.72
+F01,Facility,1,2025-09-05,Leaf Area Index,0.87
+F01,Facility,1,2025-09-09,Leaf Area Index,1.13
+F01,Facility,1,2025-09-12,Leaf Area Index,0.92
+F01,Facility,1,2025-07-16,Leaf length,27.5
+F01,Facility,1,2025-07-18,Leaf length,31
+F01,Facility,1,2025-07-21,Leaf length,30.5
+F01,Facility,1,2025-07-24,Leaf length,35
+F01,Facility,1,2025-07-28,Leaf length,35.6
+F01,Facility,1,2025-07-31,Leaf length,39.7
+F01,Facility,1,2025-08-07,Leaf length,42.4
+F01,Facility,1,2025-08-11,Leaf length,42.2
+F01,Facility,1,2025-08-14,Leaf length,49.4
+F01,Facility,1,2025-08-18,Leaf length,46.3
+F01,Facility,1,2025-08-21,Leaf length,51.2
+F01,Facility,1,2025-08-25,Leaf length,55.4
+F01,Facility,1,2025-08-28,Leaf length,57.4
+F01,Facility,1,2025-09-02,Leaf length,55.7
+F01,Facility,1,2025-09-05,Leaf length,60.3
+F01,Facility,1,2025-09-09,Leaf length,61.1
+F01,Facility,1,2025-09-12,Leaf length,64.2
+F01,Facility,1,2025-07-16,Leaf width,2
+F01,Facility,1,2025-07-18,Leaf width,2.3
+F01,Facility,1,2025-07-21,Leaf width,2.1
+F01,Facility,1,2025-07-24,Leaf width,2.5
+F01,Facility,1,2025-07-28,Leaf width,2.5
+F01,Facility,1,2025-07-31,Leaf width,2.9
+F01,Facility,1,2025-08-07,Leaf width,2.8
+F01,Facility,1,2025-08-11,Leaf width,3.1
+F01,Facility,1,2025-08-14,Leaf width,3.4
+F01,Facility,1,2025-08-18,Leaf width,3.5
+F01,Facility,1,2025-08-21,Leaf width,3.5
+F01,Facility,1,2025-08-25,Leaf width,4.1
+F01,Facility,1,2025-08-28,Leaf width,4.1
+F01,Facility,1,2025-09-02,Leaf width,4.2
+F01,Facility,1,2025-09-05,Leaf width,4.5
+F01,Facility,1,2025-09-09,Leaf width,4.5
+F01,Facility,1,2025-09-12,Leaf width,4.7
+F10,Facility,10,2025-07-16,Plant Height,51.1
+F10,Facility,10,2025-07-18,Plant Height,53.8
+F10,Facility,10,2025-07-21,Plant Height,56.9
+F10,Facility,10,2025-07-24,Plant Height,59.1
+F10,Facility,10,2025-07-28,Plant Height,60.5
+F10,Facility,10,2025-07-31,Plant Height,65.2
+F10,Facility,10,2025-08-07,Plant Height,70.7
+F10,Facility,10,2025-08-11,Plant Height,70.8
+F10,Facility,10,2025-08-14,Plant Height,76.1
+F10,Facility,10,2025-08-18,Plant Height,79.4
+F10,Facility,10,2025-08-21,Plant Height,81.4
+F10,Facility,10,2025-08-25,Plant Height,83.9
+F10,Facility,10,2025-08-28,Plant Height,86.7
+F10,Facility,10,2025-09-02,Plant Height,91.5
+F10,Facility,10,2025-09-05,Plant Height,92.1
+F10,Facility,10,2025-09-09,Plant Height,93.9
+F10,Facility,10,2025-09-12,Plant Height,95.7
+F10,Facility,10,2025-07-16,Number of Tillers,3
+F10,Facility,10,2025-07-18,Number of Tillers,4
+F10,Facility,10,2025-07-21,Number of Tillers,5
+F10,Facility,10,2025-07-24,Number of Tillers,4
+F10,Facility,10,2025-07-28,Number of Tillers,6
+F10,Facility,10,2025-07-31,Number of Tillers,6
+F10,Facility,10,2025-08-07,Number of Tillers,6
+F10,Facility,10,2025-08-11,Number of Tillers,7
+F10,Facility,10,2025-08-14,Number of Tillers,7
+F10,Facility,10,2025-08-18,Number of Tillers,6
+F10,Facility,10,2025-08-21,Number of Tillers,9
+F10,Facility,10,2025-08-25,Number of Tillers,8
+F10,Facility,10,2025-08-28,Number of Tillers,11
+F10,Facility,10,2025-09-02,Number of Tillers,11
+F10,Facility,10,2025-09-05,Number of Tillers,10
+F10,Facility,10,2025-09-09,Number of Tillers,12
+F10,Facility,10,2025-09-12,Number of Tillers,10
+F10,Facility,10,2025-07-16,Leaf Area Index,0.1
+F10,Facility,10,2025-07-18,Leaf Area Index,0.14
+F10,Facility,10,2025-07-21,Leaf Area Index,0.27
+F10,Facility,10,2025-07-24,Leaf Area Index,0.35
+F10,Facility,10,2025-07-28,Leaf Area Index,0.13
+F10,Facility,10,2025-07-31,Leaf Area Index,0.35
+F10,Facility,10,2025-08-07,Leaf Area Index,0.27
+F10,Facility,10,2025-08-11,Leaf Area Index,0.26
+F10,Facility,10,2025-08-14,Leaf Area Index,0.51
+F10,Facility,10,2025-08-18,Leaf Area Index,0.34
+F10,Facility,10,2025-08-21,Leaf Area Index,0.58
+F10,Facility,10,2025-08-25,Leaf Area Index,0.54
+F10,Facility,10,2025-08-28,Leaf Area Index,0.93
+F10,Facility,10,2025-09-02,Leaf Area Index,0.91
+F10,Facility,10,2025-09-05,Leaf Area Index,0.97
+F10,Facility,10,2025-09-09,Leaf Area Index,1.11
+F10,Facility,10,2025-09-12,Leaf Area Index,1.18
+F10,Facility,10,2025-07-16,Leaf length,38.5
+F10,Facility,10,2025-07-18,Leaf length,38.1
+F10,Facility,10,2025-07-21,Leaf length,40.4
+F10,Facility,10,2025-07-24,Leaf length,38.2
+F10,Facility,10,2025-07-28,Leaf length,41.5
+F10,Facility,10,2025-07-31,Leaf length,43.2
+F10,Facility,10,2025-08-07,Leaf length,47.3
+F10,Facility,10,2025-08-11,Leaf length,51.2
+F10,Facility,10,2025-08-14,Leaf length,49.8
+F10,Facility,10,2025-08-18,Leaf length,54.4
+F10,Facility,10,2025-08-21,Leaf length,58.3
+F10,Facility,10,2025-08-25,Leaf length,60.8
+F10,Facility,10,2025-08-28,Leaf length,60.5
+F10,Facility,10,2025-09-02,Leaf length,61.9
+F10,Facility,10,2025-09-05,Leaf length,66.5
+F10,Facility,10,2025-09-09,Leaf length,67.2
+F10,Facility,10,2025-09-12,Leaf length,66.4
+F10,Facility,10,2025-07-16,Leaf width,2.3
+F10,Facility,10,2025-07-18,Leaf width,2.9
+F10,Facility,10,2025-07-21,Leaf width,2.8
+F10,Facility,10,2025-07-24,Leaf width,3
+F10,Facility,10,2025-07-28,Leaf width,2.8
+F10,Facility,10,2025-07-31,Leaf width,3
+F10,Facility,10,2025-08-07,Leaf width,3.7
+F10,Facility,10,2025-08-11,Leaf width,3.8
+F10,Facility,10,2025-08-14,Leaf width,3.4
+F10,Facility,10,2025-08-18,Leaf width,3.6
+F10,Facility,10,2025-08-21,Leaf width,3.9
+F10,Facility,10,2025-08-25,Leaf width,4.3
+F10,Facility,10,2025-08-28,Leaf width,4.2
+F10,Facility,10,2025-09-02,Leaf width,4.8
+F10,Facility,10,2025-09-05,Leaf width,4.7
+F10,Facility,10,2025-09-09,Leaf width,4.5
+F10,Facility,10,2025-09-12,Leaf width,4.7
+F11,Facility,11,2025-07-16,Plant Height,47.8
+F11,Facility,11,2025-07-18,Plant Height,52.4
+F11,Facility,11,2025-07-21,Plant Height,51.8
+F11,Facility,11,2025-07-24,Plant Height,54.1
+F11,Facility,11,2025-07-28,Plant Height,58.2
+F11,Facility,11,2025-07-31,Plant Height,59.2
+F11,Facility,11,2025-08-07,Plant Height,67.7
+F11,Facility,11,2025-08-11,Plant Height,68.2
+F11,Facility,11,2025-08-14,Plant Height,72.5
+F11,Facility,11,2025-08-18,Plant Height,75.8
+F11,Facility,11,2025-08-21,Plant Height,76.9
+F11,Facility,11,2025-08-25,Plant Height,82.7
+F11,Facility,11,2025-08-28,Plant Height,84.9
+F11,Facility,11,2025-09-02,Plant Height,86.7
+F11,Facility,11,2025-09-05,Plant Height,91.3
+F11,Facility,11,2025-09-09,Plant Height,92
+F11,Facility,11,2025-09-12,Plant Height,94.4
+F11,Facility,11,2025-07-16,Number of Tillers,4
+F11,Facility,11,2025-07-18,Number of Tillers,4
+F11,Facility,11,2025-07-21,Number of Tillers,3
+F11,Facility,11,2025-07-24,Number of Tillers,4
+F11,Facility,11,2025-07-28,Number of Tillers,3
+F11,Facility,11,2025-07-31,Number of Tillers,4
+F11,Facility,11,2025-08-07,Number of Tillers,6
+F11,Facility,11,2025-08-11,Number of Tillers,8
+F11,Facility,11,2025-08-14,Number of Tillers,7
+F11,Facility,11,2025-08-18,Number of Tillers,7
+F11,Facility,11,2025-08-21,Number of Tillers,9
+F11,Facility,11,2025-08-25,Number of Tillers,7
+F11,Facility,11,2025-08-28,Number of Tillers,8
+F11,Facility,11,2025-09-02,Number of Tillers,11
+F11,Facility,11,2025-09-05,Number of Tillers,10
+F11,Facility,11,2025-09-09,Number of Tillers,11
+F11,Facility,11,2025-09-12,Number of Tillers,12
+F11,Facility,11,2025-07-16,Leaf Area Index,0.1
+F11,Facility,11,2025-07-18,Leaf Area Index,0.1
+F11,Facility,11,2025-07-21,Leaf Area Index,0.16
+F11,Facility,11,2025-07-24,Leaf Area Index,0.24
+F11,Facility,11,2025-07-28,Leaf Area Index,0.18
+F11,Facility,11,2025-07-31,Leaf Area Index,0.29
+F11,Facility,11,2025-08-07,Leaf Area Index,0.2
+F11,Facility,11,2025-08-11,Leaf Area Index,0.25
+F11,Facility,11,2025-08-14,Leaf Area Index,0.38
+F11,Facility,11,2025-08-18,Leaf Area Index,0.5
+F11,Facility,11,2025-08-21,Leaf Area Index,0.55
+F11,Facility,11,2025-08-25,Leaf Area Index,0.81
+F11,Facility,11,2025-08-28,Leaf Area Index,0.82
+F11,Facility,11,2025-09-02,Leaf Area Index,0.94
+F11,Facility,11,2025-09-05,Leaf Area Index,0.96
+F11,Facility,11,2025-09-09,Leaf Area Index,1.16
+F11,Facility,11,2025-09-12,Leaf Area Index,1.06
+F11,Facility,11,2025-07-16,Leaf length,33.5
+F11,Facility,11,2025-07-18,Leaf length,37.8
+F11,Facility,11,2025-07-21,Leaf length,34.7
+F11,Facility,11,2025-07-24,Leaf length,41.5
+F11,Facility,11,2025-07-28,Leaf length,41.3
+F11,Facility,11,2025-07-31,Leaf length,43.9
+F11,Facility,11,2025-08-07,Leaf length,45.4
+F11,Facility,11,2025-08-11,Leaf length,46.6
+F11,Facility,11,2025-08-14,Leaf length,50.8
+F11,Facility,11,2025-08-18,Leaf length,50.7
+F11,Facility,11,2025-08-21,Leaf length,54.4
+F11,Facility,11,2025-08-25,Leaf length,55.3
+F11,Facility,11,2025-08-28,Leaf length,57.7
+F11,Facility,11,2025-09-02,Leaf length,62.4
+F11,Facility,11,2025-09-05,Leaf length,63.1
+F11,Facility,11,2025-09-09,Leaf length,64.5
+F11,Facility,11,2025-09-12,Leaf length,64.8
+F11,Facility,11,2025-07-16,Leaf width,2.6
+F11,Facility,11,2025-07-18,Leaf width,2.8
+F11,Facility,11,2025-07-21,Leaf width,2.4
+F11,Facility,11,2025-07-24,Leaf width,2.7
+F11,Facility,11,2025-07-28,Leaf width,3.1
+F11,Facility,11,2025-07-31,Leaf width,3
+F11,Facility,11,2025-08-07,Leaf width,3.2
+F11,Facility,11,2025-08-11,Leaf width,3.5
+F11,Facility,11,2025-08-14,Leaf width,3.5
+F11,Facility,11,2025-08-18,Leaf width,4
+F11,Facility,11,2025-08-21,Leaf width,3.6
+F11,Facility,11,2025-08-25,Leaf width,4.3
+F11,Facility,11,2025-08-28,Leaf width,4
+F11,Facility,11,2025-09-02,Leaf width,4.3
+F11,Facility,11,2025-09-05,Leaf width,4.2
+F11,Facility,11,2025-09-09,Leaf width,4.6
+F11,Facility,11,2025-09-12,Leaf width,4.8
+F12,Facility,12,2025-07-16,Plant Height,37.6
+F12,Facility,12,2025-07-18,Plant Height,41.8
+F12,Facility,12,2025-07-21,Plant Height,43.2
+F12,Facility,12,2025-07-24,Plant Height,47
+F12,Facility,12,2025-07-28,Plant Height,50.9
+F12,Facility,12,2025-07-31,Plant Height,51.3
+F12,Facility,12,2025-08-07,Plant Height,56.3
+F12,Facility,12,2025-08-11,Plant Height,59.8
+F12,Facility,12,2025-08-14,Plant Height,63.1
+F12,Facility,12,2025-08-18,Plant Height,65.9
+F12,Facility,12,2025-08-21,Plant Height,68.2
+F12,Facility,12,2025-08-25,Plant Height,72.8
+F12,Facility,12,2025-08-28,Plant Height,75
+F12,Facility,12,2025-09-02,Plant Height,76.2
+F12,Facility,12,2025-09-05,Plant Height,82.2
+F12,Facility,12,2025-09-09,Plant Height,82.2
+F12,Facility,12,2025-09-12,Plant Height,86.9
+F12,Facility,12,2025-07-16,Number of Tillers,4
+F12,Facility,12,2025-07-18,Number of Tillers,1
+F12,Facility,12,2025-07-21,Number of Tillers,2
+F12,Facility,12,2025-07-24,Number of Tillers,3
+F12,Facility,12,2025-07-28,Number of Tillers,6
+F12,Facility,12,2025-07-31,Number of Tillers,3
+F12,Facility,12,2025-08-07,Number of Tillers,7
+F12,Facility,12,2025-08-11,Number of Tillers,7
+F12,Facility,12,2025-08-14,Number of Tillers,5
+F12,Facility,12,2025-08-18,Number of Tillers,7
+F12,Facility,12,2025-08-21,Number of Tillers,7
+F12,Facility,12,2025-08-25,Number of Tillers,10
+F12,Facility,12,2025-08-28,Number of Tillers,9
+F12,Facility,12,2025-09-02,Number of Tillers,11
+F12,Facility,12,2025-09-05,Number of Tillers,11
+F12,Facility,12,2025-09-09,Number of Tillers,11
+F12,Facility,12,2025-09-12,Number of Tillers,11
+F12,Facility,12,2025-07-16,Leaf Area Index,0.1
+F12,Facility,12,2025-07-18,Leaf Area Index,0.1
+F12,Facility,12,2025-07-21,Leaf Area Index,0.1
+F12,Facility,12,2025-07-24,Leaf Area Index,0.13
+F12,Facility,12,2025-07-28,Leaf Area Index,0.26
+F12,Facility,12,2025-07-31,Leaf Area Index,0.17
+F12,Facility,12,2025-08-07,Leaf Area Index,0.21
+F12,Facility,12,2025-08-11,Leaf Area Index,0.1
+F12,Facility,12,2025-08-14,Leaf Area Index,0.51
+F12,Facility,12,2025-08-18,Leaf Area Index,0.57
+F12,Facility,12,2025-08-21,Leaf Area Index,0.51
+F12,Facility,12,2025-08-25,Leaf Area Index,0.56
+F12,Facility,12,2025-08-28,Leaf Area Index,0.64
+F12,Facility,12,2025-09-02,Leaf Area Index,0.85
+F12,Facility,12,2025-09-05,Leaf Area Index,0.55
+F12,Facility,12,2025-09-09,Leaf Area Index,0.68
+F12,Facility,12,2025-09-12,Leaf Area Index,0.96
+F12,Facility,12,2025-07-16,Leaf length,29.5
+F12,Facility,12,2025-07-18,Leaf length,27
+F12,Facility,12,2025-07-21,Leaf length,28.3
+F12,Facility,12,2025-07-24,Leaf length,34.7
+F12,Facility,12,2025-07-28,Leaf length,35.3
+F12,Facility,12,2025-07-31,Leaf length,37.3
+F12,Facility,12,2025-08-07,Leaf length,40.5
+F12,Facility,12,2025-08-11,Leaf length,39.8
+F12,Facility,12,2025-08-14,Leaf length,44.3
+F12,Facility,12,2025-08-18,Leaf length,45.7
+F12,Facility,12,2025-08-21,Leaf length,50.8
+F12,Facility,12,2025-08-25,Leaf length,50.7
+F12,Facility,12,2025-08-28,Leaf length,50.7
+F12,Facility,12,2025-09-02,Leaf length,53.3
+F12,Facility,12,2025-09-05,Leaf length,54
+F12,Facility,12,2025-09-09,Leaf length,59.1
+F12,Facility,12,2025-09-12,Leaf length,62.6
+F12,Facility,12,2025-07-16,Leaf width,2.2
+F12,Facility,12,2025-07-18,Leaf width,2.1
+F12,Facility,12,2025-07-21,Leaf width,2.5
+F12,Facility,12,2025-07-24,Leaf width,2.3
+F12,Facility,12,2025-07-28,Leaf width,2.5
+F12,Facility,12,2025-07-31,Leaf width,2.6
+F12,Facility,12,2025-08-07,Leaf width,2.8
+F12,Facility,12,2025-08-11,Leaf width,2.7
+F12,Facility,12,2025-08-14,Leaf width,3.4
+F12,Facility,12,2025-08-18,Leaf width,3.4
+F12,Facility,12,2025-08-21,Leaf width,3.3
+F12,Facility,12,2025-08-25,Leaf width,3.8
+F12,Facility,12,2025-08-28,Leaf width,3.4
+F12,Facility,12,2025-09-02,Leaf width,3.9
+F12,Facility,12,2025-09-05,Leaf width,3.8
+F12,Facility,12,2025-09-09,Leaf width,4.2
+F12,Facility,12,2025-09-12,Leaf width,4.1
+F13,Facility,13,2025-07-16,Plant Height,30.9
+F13,Facility,13,2025-07-18,Plant Height,33.3
+F13,Facility,13,2025-07-21,Plant Height,36.6
+F13,Facility,13,2025-07-24,Plant Height,39.1
+F13,Facility,13,2025-07-28,Plant Height,39.6
+F13,Facility,13,2025-07-31,Plant Height,43.4
+F13,Facility,13,2025-08-07,Plant Height,48.8
+F13,Facility,13,2025-08-11,Plant Height,51.2
+F13,Facility,13,2025-08-14,Plant Height,55
+F13,Facility,13,2025-08-18,Plant Height,57
+F13,Facility,13,2025-08-21,Plant Height,59.3
+F13,Facility,13,2025-08-25,Plant Height,61.7
+F13,Facility,13,2025-08-28,Plant Height,66.3
+F13,Facility,13,2025-09-02,Plant Height,71.5
+F13,Facility,13,2025-09-05,Plant Height,71.3
+F13,Facility,13,2025-09-09,Plant Height,76.3
+F13,Facility,13,2025-09-12,Plant Height,76.3
+F13,Facility,13,2025-07-16,Number of Tillers,1
+F13,Facility,13,2025-07-18,Number of Tillers,3
+F13,Facility,13,2025-07-21,Number of Tillers,4
+F13,Facility,13,2025-07-24,Number of Tillers,3
+F13,Facility,13,2025-07-28,Number of Tillers,3
+F13,Facility,13,2025-07-31,Number of Tillers,4
+F13,Facility,13,2025-08-07,Number of Tillers,4
+F13,Facility,13,2025-08-11,Number of Tillers,4
+F13,Facility,13,2025-08-14,Number of Tillers,6
+F13,Facility,13,2025-08-18,Number of Tillers,5
+F13,Facility,13,2025-08-21,Number of Tillers,8
+F13,Facility,13,2025-08-25,Number of Tillers,8
+F13,Facility,13,2025-08-28,Number of Tillers,9
+F13,Facility,13,2025-09-02,Number of Tillers,8
+F13,Facility,13,2025-09-05,Number of Tillers,10
+F13,Facility,13,2025-09-09,Number of Tillers,11
+F13,Facility,13,2025-09-12,Number of Tillers,12
+F13,Facility,13,2025-07-16,Leaf Area Index,0.18
+F13,Facility,13,2025-07-18,Leaf Area Index,0.1
+F13,Facility,13,2025-07-21,Leaf Area Index,0.1
+F13,Facility,13,2025-07-24,Leaf Area Index,0.12
+F13,Facility,13,2025-07-28,Leaf Area Index,0.1
+F13,Facility,13,2025-07-31,Leaf Area Index,0.1
+F13,Facility,13,2025-08-07,Leaf Area Index,0.1
+F13,Facility,13,2025-08-11,Leaf Area Index,0.19
+F13,Facility,13,2025-08-14,Leaf Area Index,0.37
+F13,Facility,13,2025-08-18,Leaf Area Index,0.2
+F13,Facility,13,2025-08-21,Leaf Area Index,0.31
+F13,Facility,13,2025-08-25,Leaf Area Index,0.31
+F13,Facility,13,2025-08-28,Leaf Area Index,0.33
+F13,Facility,13,2025-09-02,Leaf Area Index,0.3
+F13,Facility,13,2025-09-05,Leaf Area Index,0.83
+F13,Facility,13,2025-09-09,Leaf Area Index,0.45
+F13,Facility,13,2025-09-12,Leaf Area Index,0.7
+F13,Facility,13,2025-07-16,Leaf length,22.1
+F13,Facility,13,2025-07-18,Leaf length,25.6
+F13,Facility,13,2025-07-21,Leaf length,22.6
+F13,Facility,13,2025-07-24,Leaf length,27.9
+F13,Facility,13,2025-07-28,Leaf length,31.8
+F13,Facility,13,2025-07-31,Leaf length,31.9
+F13,Facility,13,2025-08-07,Leaf length,31.7
+F13,Facility,13,2025-08-11,Leaf length,37.9
+F13,Facility,13,2025-08-14,Leaf length,41.2
+F13,Facility,13,2025-08-18,Leaf length,43.6
+F13,Facility,13,2025-08-21,Leaf length,41.6
+F13,Facility,13,2025-08-25,Leaf length,42.7
+F13,Facility,13,2025-08-28,Leaf length,45
+F13,Facility,13,2025-09-02,Leaf length,48.6
+F13,Facility,13,2025-09-05,Leaf length,53.5
+F13,Facility,13,2025-09-09,Leaf length,51.2
+F13,Facility,13,2025-09-12,Leaf length,52.9
+F13,Facility,13,2025-07-16,Leaf width,1.8
+F13,Facility,13,2025-07-18,Leaf width,1.7
+F13,Facility,13,2025-07-21,Leaf width,2.1
+F13,Facility,13,2025-07-24,Leaf width,1.8
+F13,Facility,13,2025-07-28,Leaf width,1.9
+F13,Facility,13,2025-07-31,Leaf width,2.4
+F13,Facility,13,2025-08-07,Leaf width,2.7
+F13,Facility,13,2025-08-11,Leaf width,2.4
+F13,Facility,13,2025-08-14,Leaf width,2.5
+F13,Facility,13,2025-08-18,Leaf width,3.1
+F13,Facility,13,2025-08-21,Leaf width,3.2
+F13,Facility,13,2025-08-25,Leaf width,3.2
+F13,Facility,13,2025-08-28,Leaf width,3.2
+F13,Facility,13,2025-09-02,Leaf width,3.2
+F13,Facility,13,2025-09-05,Leaf width,3.9
+F13,Facility,13,2025-09-09,Leaf width,4
+F13,Facility,13,2025-09-12,Leaf width,3.8
+F14,Facility,14,2025-07-16,Plant Height,37.5
+F14,Facility,14,2025-07-18,Plant Height,37.3
+F14,Facility,14,2025-07-21,Plant Height,40.2
+F14,Facility,14,2025-07-24,Plant Height,40.4
+F14,Facility,14,2025-07-28,Plant Height,43.5
+F14,Facility,14,2025-07-31,Plant Height,46.4
+F14,Facility,14,2025-08-07,Plant Height,53.6
+F14,Facility,14,2025-08-11,Plant Height,57.4
+F14,Facility,14,2025-08-14,Plant Height,60.3
+F14,Facility,14,2025-08-18,Plant Height,63.1
+F14,Facility,14,2025-08-21,Plant Height,66.2
+F14,Facility,14,2025-08-25,Plant Height,68.7
+F14,Facility,14,2025-08-28,Plant Height,71.9
+F14,Facility,14,2025-09-02,Plant Height,75.4
+F14,Facility,14,2025-09-05,Plant Height,76.9
+F14,Facility,14,2025-09-09,Plant Height,80.7
+F14,Facility,14,2025-09-12,Plant Height,81.3
+F14,Facility,14,2025-07-16,Number of Tillers,4
+F14,Facility,14,2025-07-18,Number of Tillers,2
+F14,Facility,14,2025-07-21,Number of Tillers,3
+F14,Facility,14,2025-07-24,Number of Tillers,2
+F14,Facility,14,2025-07-28,Number of Tillers,4
+F14,Facility,14,2025-07-31,Number of Tillers,5
+F14,Facility,14,2025-08-07,Number of Tillers,6
+F14,Facility,14,2025-08-11,Number of Tillers,6
+F14,Facility,14,2025-08-14,Number of Tillers,8
+F14,Facility,14,2025-08-18,Number of Tillers,5
+F14,Facility,14,2025-08-21,Number of Tillers,9
+F14,Facility,14,2025-08-25,Number of Tillers,9
+F14,Facility,14,2025-08-28,Number of Tillers,7
+F14,Facility,14,2025-09-02,Number of Tillers,7
+F14,Facility,14,2025-09-05,Number of Tillers,11
+F14,Facility,14,2025-09-09,Number of Tillers,10
+F14,Facility,14,2025-09-12,Number of Tillers,11
+F14,Facility,14,2025-07-16,Leaf Area Index,0.1
+F14,Facility,14,2025-07-18,Leaf Area Index,0.1
+F14,Facility,14,2025-07-21,Leaf Area Index,0.1
+F14,Facility,14,2025-07-24,Leaf Area Index,0.13
+F14,Facility,14,2025-07-28,Leaf Area Index,0.1
+F14,Facility,14,2025-07-31,Leaf Area Index,0.1
+F14,Facility,14,2025-08-07,Leaf Area Index,0.11
+F14,Facility,14,2025-08-11,Leaf Area Index,0.12
+F14,Facility,14,2025-08-14,Leaf Area Index,0.14
+F14,Facility,14,2025-08-18,Leaf Area Index,0.48
+F14,Facility,14,2025-08-21,Leaf Area Index,0.25
+F14,Facility,14,2025-08-25,Leaf Area Index,0.32
+F14,Facility,14,2025-08-28,Leaf Area Index,0.69
+F14,Facility,14,2025-09-02,Leaf Area Index,0.74
+F14,Facility,14,2025-09-05,Leaf Area Index,0.51
+F14,Facility,14,2025-09-09,Leaf Area Index,0.64
+F14,Facility,14,2025-09-12,Leaf Area Index,0.97
+F14,Facility,14,2025-07-16,Leaf length,25.5
+F14,Facility,14,2025-07-18,Leaf length,26.4
+F14,Facility,14,2025-07-21,Leaf length,28.6
+F14,Facility,14,2025-07-24,Leaf length,27.8
+F14,Facility,14,2025-07-28,Leaf length,32.7
+F14,Facility,14,2025-07-31,Leaf length,35.8
+F14,Facility,14,2025-08-07,Leaf length,40.2
+F14,Facility,14,2025-08-11,Leaf length,37.6
+F14,Facility,14,2025-08-14,Leaf length,41.2
+F14,Facility,14,2025-08-18,Leaf length,44.8
+F14,Facility,14,2025-08-21,Leaf length,44
+F14,Facility,14,2025-08-25,Leaf length,46.9
+F14,Facility,14,2025-08-28,Leaf length,46.3
+F14,Facility,14,2025-09-02,Leaf length,52.4
+F14,Facility,14,2025-09-05,Leaf length,55.8
+F14,Facility,14,2025-09-09,Leaf length,55.7
+F14,Facility,14,2025-09-12,Leaf length,55.3
+F14,Facility,14,2025-07-16,Leaf width,1.5
+F14,Facility,14,2025-07-18,Leaf width,2
+F14,Facility,14,2025-07-21,Leaf width,1.9
+F14,Facility,14,2025-07-24,Leaf width,1.9
+F14,Facility,14,2025-07-28,Leaf width,2
+F14,Facility,14,2025-07-31,Leaf width,2.1
+F14,Facility,14,2025-08-07,Leaf width,2.8
+F14,Facility,14,2025-08-11,Leaf width,3.1
+F14,Facility,14,2025-08-14,Leaf width,3
+F14,Facility,14,2025-08-18,Leaf width,3.1
+F14,Facility,14,2025-08-21,Leaf width,3.2
+F14,Facility,14,2025-08-25,Leaf width,3.1
+F14,Facility,14,2025-08-28,Leaf width,3.8
+F14,Facility,14,2025-09-02,Leaf width,3.7
+F14,Facility,14,2025-09-05,Leaf width,4
+F14,Facility,14,2025-09-09,Leaf width,3.8
+F14,Facility,14,2025-09-12,Leaf width,4.1
+F15,Facility,15,2025-07-16,Plant Height,50.9
+F15,Facility,15,2025-07-18,Plant Height,52.9
+F15,Facility,15,2025-07-21,Plant Height,56.7
+F15,Facility,15,2025-07-24,Plant Height,56.5
+F15,Facility,15,2025-07-28,Plant Height,61.3
+F15,Facility,15,2025-07-31,Plant Height,61.7
+F15,Facility,15,2025-08-07,Plant Height,69.4
+F15,Facility,15,2025-08-11,Plant Height,71.8
+F15,Facility,15,2025-08-14,Plant Height,74
+F15,Facility,15,2025-08-18,Plant Height,78.7
+F15,Facility,15,2025-08-21,Plant Height,80.1
+F15,Facility,15,2025-08-25,Plant Height,82.5
+F15,Facility,15,2025-08-28,Plant Height,86.9
+F15,Facility,15,2025-09-02,Plant Height,89.9
+F15,Facility,15,2025-09-05,Plant Height,91
+F15,Facility,15,2025-09-09,Plant Height,95.4
+F15,Facility,15,2025-09-12,Plant Height,99.3
+F15,Facility,15,2025-07-16,Number of Tillers,5
+F15,Facility,15,2025-07-18,Number of Tillers,4
+F15,Facility,15,2025-07-21,Number of Tillers,3
+F15,Facility,15,2025-07-24,Number of Tillers,6
+F15,Facility,15,2025-07-28,Number of Tillers,4
+F15,Facility,15,2025-07-31,Number of Tillers,4
+F15,Facility,15,2025-08-07,Number of Tillers,6
+F15,Facility,15,2025-08-11,Number of Tillers,6
+F15,Facility,15,2025-08-14,Number of Tillers,9
+F15,Facility,15,2025-08-18,Number of Tillers,9
+F15,Facility,15,2025-08-21,Number of Tillers,9
+F15,Facility,15,2025-08-25,Number of Tillers,7
+F15,Facility,15,2025-08-28,Number of Tillers,10
+F15,Facility,15,2025-09-02,Number of Tillers,9
+F15,Facility,15,2025-09-05,Number of Tillers,12
+F15,Facility,15,2025-09-09,Number of Tillers,10
+F15,Facility,15,2025-09-12,Number of Tillers,10
+F15,Facility,15,2025-07-16,Leaf Area Index,0.23
+F15,Facility,15,2025-07-18,Leaf Area Index,0.15
+F15,Facility,15,2025-07-21,Leaf Area Index,0.25
+F15,Facility,15,2025-07-24,Leaf Area Index,0.31
+F15,Facility,15,2025-07-28,Leaf Area Index,0.1
+F15,Facility,15,2025-07-31,Leaf Area Index,0.16
+F15,Facility,15,2025-08-07,Leaf Area Index,0.4
+F15,Facility,15,2025-08-11,Leaf Area Index,0.31
+F15,Facility,15,2025-08-14,Leaf Area Index,0.54
+F15,Facility,15,2025-08-18,Leaf Area Index,0.67
+F15,Facility,15,2025-08-21,Leaf Area Index,0.57
+F15,Facility,15,2025-08-25,Leaf Area Index,0.85
+F15,Facility,15,2025-08-28,Leaf Area Index,0.88
+F15,Facility,15,2025-09-02,Leaf Area Index,0.67
+F15,Facility,15,2025-09-05,Leaf Area Index,0.95
+F15,Facility,15,2025-09-09,Leaf Area Index,1.15
+F15,Facility,15,2025-09-12,Leaf Area Index,1.43
+F15,Facility,15,2025-07-16,Leaf length,35.9
+F15,Facility,15,2025-07-18,Leaf length,38.5
+F15,Facility,15,2025-07-21,Leaf length,40.3
+F15,Facility,15,2025-07-24,Leaf length,39.8
+F15,Facility,15,2025-07-28,Leaf length,41.6
+F15,Facility,15,2025-07-31,Leaf length,42.6
+F15,Facility,15,2025-08-07,Leaf length,50.4
+F15,Facility,15,2025-08-11,Leaf length,49.7
+F15,Facility,15,2025-08-14,Leaf length,49.5
+F15,Facility,15,2025-08-18,Leaf length,53.2
+F15,Facility,15,2025-08-21,Leaf length,57.3
+F15,Facility,15,2025-08-25,Leaf length,58.2
+F15,Facility,15,2025-08-28,Leaf length,62.6
+F15,Facility,15,2025-09-02,Leaf length,64.9
+F15,Facility,15,2025-09-05,Leaf length,62.8
+F15,Facility,15,2025-09-09,Leaf length,64.5
+F15,Facility,15,2025-09-12,Leaf length,69.5
+F15,Facility,15,2025-07-16,Leaf width,2.5
+F15,Facility,15,2025-07-18,Leaf width,2.6
+F15,Facility,15,2025-07-21,Leaf width,3
+F15,Facility,15,2025-07-24,Leaf width,2.8
+F15,Facility,15,2025-07-28,Leaf width,3.3
+F15,Facility,15,2025-07-31,Leaf width,3.3
+F15,Facility,15,2025-08-07,Leaf width,3.6
+F15,Facility,15,2025-08-11,Leaf width,3.4
+F15,Facility,15,2025-08-14,Leaf width,3.6
+F15,Facility,15,2025-08-18,Leaf width,3.6
+F15,Facility,15,2025-08-21,Leaf width,4.1
+F15,Facility,15,2025-08-25,Leaf width,4.3
+F15,Facility,15,2025-08-28,Leaf width,4.5
+F15,Facility,15,2025-09-02,Leaf width,4.2
+F15,Facility,15,2025-09-05,Leaf width,4.6
+F15,Facility,15,2025-09-09,Leaf width,4.6
+F15,Facility,15,2025-09-12,Leaf width,5
+F16,Facility,16,2025-07-16,Plant Height,47.9
+F16,Facility,16,2025-07-18,Plant Height,50
+F16,Facility,16,2025-07-21,Plant Height,53.8
+F16,Facility,16,2025-07-24,Plant Height,55.3
+F16,Facility,16,2025-07-28,Plant Height,59.9
+F16,Facility,16,2025-07-31,Plant Height,60.8
+F16,Facility,16,2025-08-07,Plant Height,67.3
+F16,Facility,16,2025-08-11,Plant Height,68.5
+F16,Facility,16,2025-08-14,Plant Height,73.2
+F16,Facility,16,2025-08-18,Plant Height,76.3
+F16,Facility,16,2025-08-21,Plant Height,78.1
+F16,Facility,16,2025-08-25,Plant Height,80.4
+F16,Facility,16,2025-08-28,Plant Height,82.4
+F16,Facility,16,2025-09-02,Plant Height,87.3
+F16,Facility,16,2025-09-05,Plant Height,91.9
+F16,Facility,16,2025-09-09,Plant Height,92.4
+F16,Facility,16,2025-09-12,Plant Height,96.2
+F16,Facility,16,2025-07-16,Number of Tillers,1
+F16,Facility,16,2025-07-18,Number of Tillers,5
+F16,Facility,16,2025-07-21,Number of Tillers,3
+F16,Facility,16,2025-07-24,Number of Tillers,6
+F16,Facility,16,2025-07-28,Number of Tillers,4
+F16,Facility,16,2025-07-31,Number of Tillers,4
+F16,Facility,16,2025-08-07,Number of Tillers,6
+F16,Facility,16,2025-08-11,Number of Tillers,8
+F16,Facility,16,2025-08-14,Number of Tillers,9
+F16,Facility,16,2025-08-18,Number of Tillers,9
+F16,Facility,16,2025-08-21,Number of Tillers,7
+F16,Facility,16,2025-08-25,Number of Tillers,10
+F16,Facility,16,2025-08-28,Number of Tillers,8
+F16,Facility,16,2025-09-02,Number of Tillers,9
+F16,Facility,16,2025-09-05,Number of Tillers,12
+F16,Facility,16,2025-09-09,Number of Tillers,11
+F16,Facility,16,2025-09-12,Number of Tillers,13
+F16,Facility,16,2025-07-16,Leaf Area Index,0.12
+F16,Facility,16,2025-07-18,Leaf Area Index,0.1
+F16,Facility,16,2025-07-21,Leaf Area Index,0.19
+F16,Facility,16,2025-07-24,Leaf Area Index,0.16
+F16,Facility,16,2025-07-28,Leaf Area Index,0.22
+F16,Facility,16,2025-07-31,Leaf Area Index,0.15
+F16,Facility,16,2025-08-07,Leaf Area Index,0.56
+F16,Facility,16,2025-08-11,Leaf Area Index,0.52
+F16,Facility,16,2025-08-14,Leaf Area Index,0.44
+F16,Facility,16,2025-08-18,Leaf Area Index,0.55
+F16,Facility,16,2025-08-21,Leaf Area Index,0.45
+F16,Facility,16,2025-08-25,Leaf Area Index,0.66
+F16,Facility,16,2025-08-28,Leaf Area Index,0.57
+F16,Facility,16,2025-09-02,Leaf Area Index,0.71
+F16,Facility,16,2025-09-05,Leaf Area Index,0.91
+F16,Facility,16,2025-09-09,Leaf Area Index,1.16
+F16,Facility,16,2025-09-12,Leaf Area Index,1.47
+F16,Facility,16,2025-07-16,Leaf length,34.4
+F16,Facility,16,2025-07-18,Leaf length,34.9
+F16,Facility,16,2025-07-21,Leaf length,36.1
+F16,Facility,16,2025-07-24,Leaf length,40.1
+F16,Facility,16,2025-07-28,Leaf length,39.7
+F16,Facility,16,2025-07-31,Leaf length,44.3
+F16,Facility,16,2025-08-07,Leaf length,48.7
+F16,Facility,16,2025-08-11,Leaf length,51.9
+F16,Facility,16,2025-08-14,Leaf length,52
+F16,Facility,16,2025-08-18,Leaf length,55.9
+F16,Facility,16,2025-08-21,Leaf length,57.2
+F16,Facility,16,2025-08-25,Leaf length,56.7
+F16,Facility,16,2025-08-28,Leaf length,58.1
+F16,Facility,16,2025-09-02,Leaf length,58.8
+F16,Facility,16,2025-09-05,Leaf length,64.8
+F16,Facility,16,2025-09-09,Leaf length,66.9
+F16,Facility,16,2025-09-12,Leaf length,69.1
+F16,Facility,16,2025-07-16,Leaf width,2.4
+F16,Facility,16,2025-07-18,Leaf width,2.6
+F16,Facility,16,2025-07-21,Leaf width,2.5
+F16,Facility,16,2025-07-24,Leaf width,2.8
+F16,Facility,16,2025-07-28,Leaf width,3
+F16,Facility,16,2025-07-31,Leaf width,3.2
+F16,Facility,16,2025-08-07,Leaf width,3.5
+F16,Facility,16,2025-08-11,Leaf width,3.4
+F16,Facility,16,2025-08-14,Leaf width,3.4
+F16,Facility,16,2025-08-18,Leaf width,3.7
+F16,Facility,16,2025-08-21,Leaf width,3.8
+F16,Facility,16,2025-08-25,Leaf width,4.3
+F16,Facility,16,2025-08-28,Leaf width,4.2
+F16,Facility,16,2025-09-02,Leaf width,4.7
+F16,Facility,16,2025-09-05,Leaf width,4.4
+F16,Facility,16,2025-09-09,Leaf width,4.7
+F16,Facility,16,2025-09-12,Leaf width,5
+F02,Facility,2,2025-07-16,Plant Height,56.4
+F02,Facility,2,2025-07-18,Plant Height,57.4
+F02,Facility,2,2025-07-21,Plant Height,61.1
+F02,Facility,2,2025-07-24,Plant Height,63.1
+F02,Facility,2,2025-07-28,Plant Height,66.5
+F02,Facility,2,2025-07-31,Plant Height,68.7
+F02,Facility,2,2025-08-07,Plant Height,74.8
+F02,Facility,2,2025-08-11,Plant Height,75.5
+F02,Facility,2,2025-08-14,Plant Height,79.7
+F02,Facility,2,2025-08-18,Plant Height,82.7
+F02,Facility,2,2025-08-21,Plant Height,84.7
+F02,Facility,2,2025-08-25,Plant Height,86.8
+F02,Facility,2,2025-08-28,Plant Height,89.1
+F02,Facility,2,2025-09-02,Plant Height,94.9
+F02,Facility,2,2025-09-05,Plant Height,95.7
+F02,Facility,2,2025-09-09,Plant Height,99.5
+F02,Facility,2,2025-09-12,Plant Height,103
+F02,Facility,2,2025-07-16,Number of Tillers,4
+F02,Facility,2,2025-07-18,Number of Tillers,3
+F02,Facility,2,2025-07-21,Number of Tillers,5
+F02,Facility,2,2025-07-24,Number of Tillers,6
+F02,Facility,2,2025-07-28,Number of Tillers,6
+F02,Facility,2,2025-07-31,Number of Tillers,4
+F02,Facility,2,2025-08-07,Number of Tillers,8
+F02,Facility,2,2025-08-11,Number of Tillers,6
+F02,Facility,2,2025-08-14,Number of Tillers,8
+F02,Facility,2,2025-08-18,Number of Tillers,10
+F02,Facility,2,2025-08-21,Number of Tillers,10
+F02,Facility,2,2025-08-25,Number of Tillers,10
+F02,Facility,2,2025-08-28,Number of Tillers,10
+F02,Facility,2,2025-09-02,Number of Tillers,11
+F02,Facility,2,2025-09-05,Number of Tillers,10
+F02,Facility,2,2025-09-09,Number of Tillers,10
+F02,Facility,2,2025-09-12,Number of Tillers,12
+F02,Facility,2,2025-07-16,Leaf Area Index,0.1
+F02,Facility,2,2025-07-18,Leaf Area Index,0.1
+F02,Facility,2,2025-07-21,Leaf Area Index,0.2
+F02,Facility,2,2025-07-24,Leaf Area Index,0.1
+F02,Facility,2,2025-07-28,Leaf Area Index,0.3
+F02,Facility,2,2025-07-31,Leaf Area Index,0.28
+F02,Facility,2,2025-08-07,Leaf Area Index,0.35
+F02,Facility,2,2025-08-11,Leaf Area Index,0.72
+F02,Facility,2,2025-08-14,Leaf Area Index,0.4
+F02,Facility,2,2025-08-18,Leaf Area Index,0.48
+F02,Facility,2,2025-08-21,Leaf Area Index,0.82
+F02,Facility,2,2025-08-25,Leaf Area Index,1
+F02,Facility,2,2025-08-28,Leaf Area Index,1
+F02,Facility,2,2025-09-02,Leaf Area Index,0.99
+F02,Facility,2,2025-09-05,Leaf Area Index,1.24
+F02,Facility,2,2025-09-09,Leaf Area Index,1.26
+F02,Facility,2,2025-09-12,Leaf Area Index,1.46
+F02,Facility,2,2025-07-16,Leaf length,39
+F02,Facility,2,2025-07-18,Leaf length,37.6
+F02,Facility,2,2025-07-21,Leaf length,41.5
+F02,Facility,2,2025-07-24,Leaf length,46
+F02,Facility,2,2025-07-28,Leaf length,45.4
+F02,Facility,2,2025-07-31,Leaf length,46.6
+F02,Facility,2,2025-08-07,Leaf length,54
+F02,Facility,2,2025-08-11,Leaf length,56.4
+F02,Facility,2,2025-08-14,Leaf length,52.5
+F02,Facility,2,2025-08-18,Leaf length,55.8
+F02,Facility,2,2025-08-21,Leaf length,59.3
+F02,Facility,2,2025-08-25,Leaf length,61.3
+F02,Facility,2,2025-08-28,Leaf length,66
+F02,Facility,2,2025-09-02,Leaf length,65.2
+F02,Facility,2,2025-09-05,Leaf length,65.7
+F02,Facility,2,2025-09-09,Leaf length,67.6
+F02,Facility,2,2025-09-12,Leaf length,74.5
+F02,Facility,2,2025-07-16,Leaf width,2.7
+F02,Facility,2,2025-07-18,Leaf width,3.2
+F02,Facility,2,2025-07-21,Leaf width,2.9
+F02,Facility,2,2025-07-24,Leaf width,2.9
+F02,Facility,2,2025-07-28,Leaf width,3.3
+F02,Facility,2,2025-07-31,Leaf width,3.3
+F02,Facility,2,2025-08-07,Leaf width,3.8
+F02,Facility,2,2025-08-11,Leaf width,3.9
+F02,Facility,2,2025-08-14,Leaf width,3.8
+F02,Facility,2,2025-08-18,Leaf width,4.3
+F02,Facility,2,2025-08-21,Leaf width,4.3
+F02,Facility,2,2025-08-25,Leaf width,4.6
+F02,Facility,2,2025-08-28,Leaf width,4.6
+F02,Facility,2,2025-09-02,Leaf width,4.5
+F02,Facility,2,2025-09-05,Leaf width,4.5
+F02,Facility,2,2025-09-09,Leaf width,5.2
+F02,Facility,2,2025-09-12,Leaf width,5.3
+F03,Facility,3,2025-07-16,Plant Height,51
+F03,Facility,3,2025-07-18,Plant Height,54.3
+F03,Facility,3,2025-07-21,Plant Height,56.9
+F03,Facility,3,2025-07-24,Plant Height,57.9
+F03,Facility,3,2025-07-28,Plant Height,62.6
+F03,Facility,3,2025-07-31,Plant Height,64.9
+F03,Facility,3,2025-08-07,Plant Height,68.2
+F03,Facility,3,2025-08-11,Plant Height,71.6
+F03,Facility,3,2025-08-14,Plant Height,75.7
+F03,Facility,3,2025-08-18,Plant Height,77.8
+F03,Facility,3,2025-08-21,Plant Height,78.7
+F03,Facility,3,2025-08-25,Plant Height,84.9
+F03,Facility,3,2025-08-28,Plant Height,86
+F03,Facility,3,2025-09-02,Plant Height,88.2
+F03,Facility,3,2025-09-05,Plant Height,92
+F03,Facility,3,2025-09-09,Plant Height,95.4
+F03,Facility,3,2025-09-12,Plant Height,98.9
+F03,Facility,3,2025-07-16,Number of Tillers,5
+F03,Facility,3,2025-07-18,Number of Tillers,4
+F03,Facility,3,2025-07-21,Number of Tillers,2
+F03,Facility,3,2025-07-24,Number of Tillers,3
+F03,Facility,3,2025-07-28,Number of Tillers,5
+F03,Facility,3,2025-07-31,Number of Tillers,7
+F03,Facility,3,2025-08-07,Number of Tillers,7
+F03,Facility,3,2025-08-11,Number of Tillers,5
+F03,Facility,3,2025-08-14,Number of Tillers,6
+F03,Facility,3,2025-08-18,Number of Tillers,9
+F03,Facility,3,2025-08-21,Number of Tillers,10
+F03,Facility,3,2025-08-25,Number of Tillers,7
+F03,Facility,3,2025-08-28,Number of Tillers,10
+F03,Facility,3,2025-09-02,Number of Tillers,8
+F03,Facility,3,2025-09-05,Number of Tillers,10
+F03,Facility,3,2025-09-09,Number of Tillers,10
+F03,Facility,3,2025-09-12,Number of Tillers,11
+F03,Facility,3,2025-07-16,Leaf Area Index,0.24
+F03,Facility,3,2025-07-18,Leaf Area Index,0.1
+F03,Facility,3,2025-07-21,Leaf Area Index,0.1
+F03,Facility,3,2025-07-24,Leaf Area Index,0.17
+F03,Facility,3,2025-07-28,Leaf Area Index,0.11
+F03,Facility,3,2025-07-31,Leaf Area Index,0.4
+F03,Facility,3,2025-08-07,Leaf Area Index,0.39
+F03,Facility,3,2025-08-11,Leaf Area Index,0.38
+F03,Facility,3,2025-08-14,Leaf Area Index,0.4
+F03,Facility,3,2025-08-18,Leaf Area Index,0.65
+F03,Facility,3,2025-08-21,Leaf Area Index,0.64
+F03,Facility,3,2025-08-25,Leaf Area Index,0.82
+F03,Facility,3,2025-08-28,Leaf Area Index,0.74
+F03,Facility,3,2025-09-02,Leaf Area Index,0.77
+F03,Facility,3,2025-09-05,Leaf Area Index,1.11
+F03,Facility,3,2025-09-09,Leaf Area Index,1.17
+F03,Facility,3,2025-09-12,Leaf Area Index,1.43
+F03,Facility,3,2025-07-16,Leaf length,37.1
+F03,Facility,3,2025-07-18,Leaf length,38.9
+F03,Facility,3,2025-07-21,Leaf length,40.5
+F03,Facility,3,2025-07-24,Leaf length,43.5
+F03,Facility,3,2025-07-28,Leaf length,45.4
+F03,Facility,3,2025-07-31,Leaf length,45.8
+F03,Facility,3,2025-08-07,Leaf length,49.8
+F03,Facility,3,2025-08-11,Leaf length,51.1
+F03,Facility,3,2025-08-14,Leaf length,53.8
+F03,Facility,3,2025-08-18,Leaf length,54.2
+F03,Facility,3,2025-08-21,Leaf length,56.1
+F03,Facility,3,2025-08-25,Leaf length,60.5
+F03,Facility,3,2025-08-28,Leaf length,60.4
+F03,Facility,3,2025-09-02,Leaf length,60.6
+F03,Facility,3,2025-09-05,Leaf length,66.6
+F03,Facility,3,2025-09-09,Leaf length,64.5
+F03,Facility,3,2025-09-12,Leaf length,69.5
+F03,Facility,3,2025-07-16,Leaf width,2.6
+F03,Facility,3,2025-07-18,Leaf width,2.7
+F03,Facility,3,2025-07-21,Leaf width,2.6
+F03,Facility,3,2025-07-24,Leaf width,3.1
+F03,Facility,3,2025-07-28,Leaf width,3.3
+F03,Facility,3,2025-07-31,Leaf width,2.9
+F03,Facility,3,2025-08-07,Leaf width,3.4
+F03,Facility,3,2025-08-11,Leaf width,3.7
+F03,Facility,3,2025-08-14,Leaf width,3.9
+F03,Facility,3,2025-08-18,Leaf width,3.9
+F03,Facility,3,2025-08-21,Leaf width,4.2
+F03,Facility,3,2025-08-25,Leaf width,4.1
+F03,Facility,3,2025-08-28,Leaf width,4.3
+F03,Facility,3,2025-09-02,Leaf width,4.6
+F03,Facility,3,2025-09-05,Leaf width,4.7
+F03,Facility,3,2025-09-09,Leaf width,4.7
+F03,Facility,3,2025-09-12,Leaf width,4.7
+F04,Facility,4,2025-07-16,Plant Height,45
+F04,Facility,4,2025-07-18,Plant Height,46.5
+F04,Facility,4,2025-07-21,Plant Height,50
+F04,Facility,4,2025-07-24,Plant Height,51.6
+F04,Facility,4,2025-07-28,Plant Height,56.5
+F04,Facility,4,2025-07-31,Plant Height,56.3
+F04,Facility,4,2025-08-07,Plant Height,61.1
+F04,Facility,4,2025-08-11,Plant Height,64.4
+F04,Facility,4,2025-08-14,Plant Height,69
+F04,Facility,4,2025-08-18,Plant Height,72.4
+F04,Facility,4,2025-08-21,Plant Height,72.6
+F04,Facility,4,2025-08-25,Plant Height,76.4
+F04,Facility,4,2025-08-28,Plant Height,81.3
+F04,Facility,4,2025-09-02,Plant Height,81.6
+F04,Facility,4,2025-09-05,Plant Height,87.4
+F04,Facility,4,2025-09-09,Plant Height,90.9
+F04,Facility,4,2025-09-12,Plant Height,92.8
+F04,Facility,4,2025-07-16,Number of Tillers,3
+F04,Facility,4,2025-07-18,Number of Tillers,3
+F04,Facility,4,2025-07-21,Number of Tillers,4
+F04,Facility,4,2025-07-24,Number of Tillers,3
+F04,Facility,4,2025-07-28,Number of Tillers,3
+F04,Facility,4,2025-07-31,Number of Tillers,5
+F04,Facility,4,2025-08-07,Number of Tillers,4
+F04,Facility,4,2025-08-11,Number of Tillers,5
+F04,Facility,4,2025-08-14,Number of Tillers,7
+F04,Facility,4,2025-08-18,Number of Tillers,7
+F04,Facility,4,2025-08-21,Number of Tillers,9
+F04,Facility,4,2025-08-25,Number of Tillers,8
+F04,Facility,4,2025-08-28,Number of Tillers,8
+F04,Facility,4,2025-09-02,Number of Tillers,9
+F04,Facility,4,2025-09-05,Number of Tillers,8
+F04,Facility,4,2025-09-09,Number of Tillers,9
+F04,Facility,4,2025-09-12,Number of Tillers,9
+F04,Facility,4,2025-07-16,Leaf Area Index,0.1
+F04,Facility,4,2025-07-18,Leaf Area Index,0.1
+F04,Facility,4,2025-07-21,Leaf Area Index,0.1
+F04,Facility,4,2025-07-24,Leaf Area Index,0.26
+F04,Facility,4,2025-07-28,Leaf Area Index,0.11
+F04,Facility,4,2025-07-31,Leaf Area Index,0.11
+F04,Facility,4,2025-08-07,Leaf Area Index,0.39
+F04,Facility,4,2025-08-11,Leaf Area Index,0.35
+F04,Facility,4,2025-08-14,Leaf Area Index,0.25
+F04,Facility,4,2025-08-18,Leaf Area Index,0.28
+F04,Facility,4,2025-08-21,Leaf Area Index,0.39
+F04,Facility,4,2025-08-25,Leaf Area Index,0.72
+F04,Facility,4,2025-08-28,Leaf Area Index,0.59
+F04,Facility,4,2025-09-02,Leaf Area Index,0.53
+F04,Facility,4,2025-09-05,Leaf Area Index,0.95
+F04,Facility,4,2025-09-09,Leaf Area Index,0.93
+F04,Facility,4,2025-09-12,Leaf Area Index,0.85
+F04,Facility,4,2025-07-16,Leaf length,32.7
+F04,Facility,4,2025-07-18,Leaf length,32.4
+F04,Facility,4,2025-07-21,Leaf length,34.3
+F04,Facility,4,2025-07-24,Leaf length,37.2
+F04,Facility,4,2025-07-28,Leaf length,36.4
+F04,Facility,4,2025-07-31,Leaf length,42.2
+F04,Facility,4,2025-08-07,Leaf length,46.9
+F04,Facility,4,2025-08-11,Leaf length,48.1
+F04,Facility,4,2025-08-14,Leaf length,46.2
+F04,Facility,4,2025-08-18,Leaf length,48.4
+F04,Facility,4,2025-08-21,Leaf length,54
+F04,Facility,4,2025-08-25,Leaf length,56.1
+F04,Facility,4,2025-08-28,Leaf length,57.4
+F04,Facility,4,2025-09-02,Leaf length,57
+F04,Facility,4,2025-09-05,Leaf length,61
+F04,Facility,4,2025-09-09,Leaf length,62.4
+F04,Facility,4,2025-09-12,Leaf length,63.2
+F04,Facility,4,2025-07-16,Leaf width,2.2
+F04,Facility,4,2025-07-18,Leaf width,2.3
+F04,Facility,4,2025-07-21,Leaf width,2.6
+F04,Facility,4,2025-07-24,Leaf width,2.5
+F04,Facility,4,2025-07-28,Leaf width,3
+F04,Facility,4,2025-07-31,Leaf width,3.1
+F04,Facility,4,2025-08-07,Leaf width,3.2
+F04,Facility,4,2025-08-11,Leaf width,3.5
+F04,Facility,4,2025-08-14,Leaf width,3.4
+F04,Facility,4,2025-08-18,Leaf width,3.7
+F04,Facility,4,2025-08-21,Leaf width,3.7
+F04,Facility,4,2025-08-25,Leaf width,3.9
+F04,Facility,4,2025-08-28,Leaf width,4.1
+F04,Facility,4,2025-09-02,Leaf width,4
+F04,Facility,4,2025-09-05,Leaf width,4.2
+F04,Facility,4,2025-09-09,Leaf width,4.6
+F04,Facility,4,2025-09-12,Leaf width,4.4
+F05,Facility,5,2025-07-16,Plant Height,49.8
+F05,Facility,5,2025-07-18,Plant Height,53.2
+F05,Facility,5,2025-07-21,Plant Height,55.9
+F05,Facility,5,2025-07-24,Plant Height,57.9
+F05,Facility,5,2025-07-28,Plant Height,62.9
+F05,Facility,5,2025-07-31,Plant Height,64.3
+F05,Facility,5,2025-08-07,Plant Height,69.6
+F05,Facility,5,2025-08-11,Plant Height,74.1
+F05,Facility,5,2025-08-14,Plant Height,73.3
+F05,Facility,5,2025-08-18,Plant Height,79.4
+F05,Facility,5,2025-08-21,Plant Height,80.4
+F05,Facility,5,2025-08-25,Plant Height,85
+F05,Facility,5,2025-08-28,Plant Height,84.1
+F05,Facility,5,2025-09-02,Plant Height,89.4
+F05,Facility,5,2025-09-05,Plant Height,93.3
+F05,Facility,5,2025-09-09,Plant Height,96.1
+F05,Facility,5,2025-09-12,Plant Height,98.3
+F05,Facility,5,2025-07-16,Number of Tillers,3
+F05,Facility,5,2025-07-18,Number of Tillers,4
+F05,Facility,5,2025-07-21,Number of Tillers,2
+F05,Facility,5,2025-07-24,Number of Tillers,6
+F05,Facility,5,2025-07-28,Number of Tillers,6
+F05,Facility,5,2025-07-31,Number of Tillers,5
+F05,Facility,5,2025-08-07,Number of Tillers,5
+F05,Facility,5,2025-08-11,Number of Tillers,8
+F05,Facility,5,2025-08-14,Number of Tillers,6
+F05,Facility,5,2025-08-18,Number of Tillers,6
+F05,Facility,5,2025-08-21,Number of Tillers,8
+F05,Facility,5,2025-08-25,Number of Tillers,8
+F05,Facility,5,2025-08-28,Number of Tillers,9
+F05,Facility,5,2025-09-02,Number of Tillers,8
+F05,Facility,5,2025-09-05,Number of Tillers,11
+F05,Facility,5,2025-09-09,Number of Tillers,11
+F05,Facility,5,2025-09-12,Number of Tillers,12
+F05,Facility,5,2025-07-16,Leaf Area Index,0.1
+F05,Facility,5,2025-07-18,Leaf Area Index,0.16
+F05,Facility,5,2025-07-21,Leaf Area Index,0.17
+F05,Facility,5,2025-07-24,Leaf Area Index,0.26
+F05,Facility,5,2025-07-28,Leaf Area Index,0.23
+F05,Facility,5,2025-07-31,Leaf Area Index,0.4
+F05,Facility,5,2025-08-07,Leaf Area Index,0.19
+F05,Facility,5,2025-08-11,Leaf Area Index,0.23
+F05,Facility,5,2025-08-14,Leaf Area Index,0.47
+F05,Facility,5,2025-08-18,Leaf Area Index,0.65
+F05,Facility,5,2025-08-21,Leaf Area Index,0.5
+F05,Facility,5,2025-08-25,Leaf Area Index,0.8
+F05,Facility,5,2025-08-28,Leaf Area Index,0.97
+F05,Facility,5,2025-09-02,Leaf Area Index,0.97
+F05,Facility,5,2025-09-05,Leaf Area Index,1.07
+F05,Facility,5,2025-09-09,Leaf Area Index,1.08
+F05,Facility,5,2025-09-12,Leaf Area Index,1.16
+F05,Facility,5,2025-07-16,Leaf length,38
+F05,Facility,5,2025-07-18,Leaf length,38.2
+F05,Facility,5,2025-07-21,Leaf length,41.4
+F05,Facility,5,2025-07-24,Leaf length,42.4
+F05,Facility,5,2025-07-28,Leaf length,41.3
+F05,Facility,5,2025-07-31,Leaf length,46.6
+F05,Facility,5,2025-08-07,Leaf length,47.2
+F05,Facility,5,2025-08-11,Leaf length,50.2
+F05,Facility,5,2025-08-14,Leaf length,51.2
+F05,Facility,5,2025-08-18,Leaf length,56.8
+F05,Facility,5,2025-08-21,Leaf length,55.6
+F05,Facility,5,2025-08-25,Leaf length,56
+F05,Facility,5,2025-08-28,Leaf length,61.8
+F05,Facility,5,2025-09-02,Leaf length,63.9
+F05,Facility,5,2025-09-05,Leaf length,64.3
+F05,Facility,5,2025-09-09,Leaf length,64.7
+F05,Facility,5,2025-09-12,Leaf length,68.7
+F05,Facility,5,2025-07-16,Leaf width,2.6
+F05,Facility,5,2025-07-18,Leaf width,2.6
+F05,Facility,5,2025-07-21,Leaf width,2.6
+F05,Facility,5,2025-07-24,Leaf width,3.1
+F05,Facility,5,2025-07-28,Leaf width,2.9
+F05,Facility,5,2025-07-31,Leaf width,2.9
+F05,Facility,5,2025-08-07,Leaf width,3.6
+F05,Facility,5,2025-08-11,Leaf width,3.9
+F05,Facility,5,2025-08-14,Leaf width,4
+F05,Facility,5,2025-08-18,Leaf width,4
+F05,Facility,5,2025-08-21,Leaf width,3.9
+F05,Facility,5,2025-08-25,Leaf width,4.1
+F05,Facility,5,2025-08-28,Leaf width,4.3
+F05,Facility,5,2025-09-02,Leaf width,4.6
+F05,Facility,5,2025-09-05,Leaf width,4.7
+F05,Facility,5,2025-09-09,Leaf width,4.8
+F05,Facility,5,2025-09-12,Leaf width,4.9
+F06,Facility,6,2025-07-16,Plant Height,40.9
+F06,Facility,6,2025-07-18,Plant Height,43.9
+F06,Facility,6,2025-07-21,Plant Height,44.8
+F06,Facility,6,2025-07-24,Plant Height,49.4
+F06,Facility,6,2025-07-28,Plant Height,49.7
+F06,Facility,6,2025-07-31,Plant Height,52
+F06,Facility,6,2025-08-07,Plant Height,59.4
+F06,Facility,6,2025-08-11,Plant Height,60.6
+F06,Facility,6,2025-08-14,Plant Height,62.6
+F06,Facility,6,2025-08-18,Plant Height,66.2
+F06,Facility,6,2025-08-21,Plant Height,70.5
+F06,Facility,6,2025-08-25,Plant Height,75
+F06,Facility,6,2025-08-28,Plant Height,76.5
+F06,Facility,6,2025-09-02,Plant Height,80.9
+F06,Facility,6,2025-09-05,Plant Height,80.1
+F06,Facility,6,2025-09-09,Plant Height,83.2
+F06,Facility,6,2025-09-12,Plant Height,86.3
+F06,Facility,6,2025-07-16,Number of Tillers,4
+F06,Facility,6,2025-07-18,Number of Tillers,3
+F06,Facility,6,2025-07-21,Number of Tillers,2
+F06,Facility,6,2025-07-24,Number of Tillers,3
+F06,Facility,6,2025-07-28,Number of Tillers,5
+F06,Facility,6,2025-07-31,Number of Tillers,4
+F06,Facility,6,2025-08-07,Number of Tillers,4
+F06,Facility,6,2025-08-11,Number of Tillers,6
+F06,Facility,6,2025-08-14,Number of Tillers,7
+F06,Facility,6,2025-08-18,Number of Tillers,6
+F06,Facility,6,2025-08-21,Number of Tillers,8
+F06,Facility,6,2025-08-25,Number of Tillers,10
+F06,Facility,6,2025-08-28,Number of Tillers,10
+F06,Facility,6,2025-09-02,Number of Tillers,11
+F06,Facility,6,2025-09-05,Number of Tillers,9
+F06,Facility,6,2025-09-09,Number of Tillers,12
+F06,Facility,6,2025-09-12,Number of Tillers,10
+F06,Facility,6,2025-07-16,Leaf Area Index,0.1
+F06,Facility,6,2025-07-18,Leaf Area Index,0.2
+F06,Facility,6,2025-07-21,Leaf Area Index,0.1
+F06,Facility,6,2025-07-24,Leaf Area Index,0.14
+F06,Facility,6,2025-07-28,Leaf Area Index,0.1
+F06,Facility,6,2025-07-31,Leaf Area Index,0.18
+F06,Facility,6,2025-08-07,Leaf Area Index,0.15
+F06,Facility,6,2025-08-11,Leaf Area Index,0.29
+F06,Facility,6,2025-08-14,Leaf Area Index,0.21
+F06,Facility,6,2025-08-18,Leaf Area Index,0.28
+F06,Facility,6,2025-08-21,Leaf Area Index,0.52
+F06,Facility,6,2025-08-25,Leaf Area Index,0.34
+F06,Facility,6,2025-08-28,Leaf Area Index,0.38
+F06,Facility,6,2025-09-02,Leaf Area Index,0.53
+F06,Facility,6,2025-09-05,Leaf Area Index,0.63
+F06,Facility,6,2025-09-09,Leaf Area Index,0.88
+F06,Facility,6,2025-09-12,Leaf Area Index,0.89
+F06,Facility,6,2025-07-16,Leaf length,28.1
+F06,Facility,6,2025-07-18,Leaf length,27.5
+F06,Facility,6,2025-07-21,Leaf length,31.3
+F06,Facility,6,2025-07-24,Leaf length,32.2
+F06,Facility,6,2025-07-28,Leaf length,36.1
+F06,Facility,6,2025-07-31,Leaf length,38.6
+F06,Facility,6,2025-08-07,Leaf length,38.8
+F06,Facility,6,2025-08-11,Leaf length,44.2
+F06,Facility,6,2025-08-14,Leaf length,45.3
+F06,Facility,6,2025-08-18,Leaf length,50
+F06,Facility,6,2025-08-21,Leaf length,47.7
+F06,Facility,6,2025-08-25,Leaf length,49.9
+F06,Facility,6,2025-08-28,Leaf length,51.2
+F06,Facility,6,2025-09-02,Leaf length,54
+F06,Facility,6,2025-09-05,Leaf length,58.1
+F06,Facility,6,2025-09-09,Leaf length,61.9
+F06,Facility,6,2025-09-12,Leaf length,58.5
+F06,Facility,6,2025-07-16,Leaf width,1.8
+F06,Facility,6,2025-07-18,Leaf width,2.3
+F06,Facility,6,2025-07-21,Leaf width,2
+F06,Facility,6,2025-07-24,Leaf width,2.2
+F06,Facility,6,2025-07-28,Leaf width,2.4
+F06,Facility,6,2025-07-31,Leaf width,2.6
+F06,Facility,6,2025-08-07,Leaf width,3.2
+F06,Facility,6,2025-08-11,Leaf width,3.4
+F06,Facility,6,2025-08-14,Leaf width,3.4
+F06,Facility,6,2025-08-18,Leaf width,3.5
+F06,Facility,6,2025-08-21,Leaf width,3.5
+F06,Facility,6,2025-08-25,Leaf width,3.5
+F06,Facility,6,2025-08-28,Leaf width,3.6
+F06,Facility,6,2025-09-02,Leaf width,4.1
+F06,Facility,6,2025-09-05,Leaf width,4
+F06,Facility,6,2025-09-09,Leaf width,4.2
+F06,Facility,6,2025-09-12,Leaf width,4.5
+F07,Facility,7,2025-07-16,Plant Height,49.6
+F07,Facility,7,2025-07-18,Plant Height,51.8
+F07,Facility,7,2025-07-21,Plant Height,53.2
+F07,Facility,7,2025-07-24,Plant Height,56.2
+F07,Facility,7,2025-07-28,Plant Height,60.3
+F07,Facility,7,2025-07-31,Plant Height,62.8
+F07,Facility,7,2025-08-07,Plant Height,66.4
+F07,Facility,7,2025-08-11,Plant Height,69.8
+F07,Facility,7,2025-08-14,Plant Height,71.2
+F07,Facility,7,2025-08-18,Plant Height,77
+F07,Facility,7,2025-08-21,Plant Height,76.5
+F07,Facility,7,2025-08-25,Plant Height,80.3
+F07,Facility,7,2025-08-28,Plant Height,83.4
+F07,Facility,7,2025-09-02,Plant Height,87
+F07,Facility,7,2025-09-05,Plant Height,88.8
+F07,Facility,7,2025-09-09,Plant Height,93.3
+F07,Facility,7,2025-09-12,Plant Height,94.9
+F07,Facility,7,2025-07-16,Number of Tillers,2
+F07,Facility,7,2025-07-18,Number of Tillers,3
+F07,Facility,7,2025-07-21,Number of Tillers,5
+F07,Facility,7,2025-07-24,Number of Tillers,6
+F07,Facility,7,2025-07-28,Number of Tillers,5
+F07,Facility,7,2025-07-31,Number of Tillers,4
+F07,Facility,7,2025-08-07,Number of Tillers,6
+F07,Facility,7,2025-08-11,Number of Tillers,6
+F07,Facility,7,2025-08-14,Number of Tillers,7
+F07,Facility,7,2025-08-18,Number of Tillers,9
+F07,Facility,7,2025-08-21,Number of Tillers,9
+F07,Facility,7,2025-08-25,Number of Tillers,7
+F07,Facility,7,2025-08-28,Number of Tillers,11
+F07,Facility,7,2025-09-02,Number of Tillers,8
+F07,Facility,7,2025-09-05,Number of Tillers,9
+F07,Facility,7,2025-09-09,Number of Tillers,11
+F07,Facility,7,2025-09-12,Number of Tillers,13
+F07,Facility,7,2025-07-16,Leaf Area Index,0.22
+F07,Facility,7,2025-07-18,Leaf Area Index,0.1
+F07,Facility,7,2025-07-21,Leaf Area Index,0.1
+F07,Facility,7,2025-07-24,Leaf Area Index,0.33
+F07,Facility,7,2025-07-28,Leaf Area Index,0.12
+F07,Facility,7,2025-07-31,Leaf Area Index,0.43
+F07,Facility,7,2025-08-07,Leaf Area Index,0.38
+F07,Facility,7,2025-08-11,Leaf Area Index,0.6
+F07,Facility,7,2025-08-14,Leaf Area Index,0.65
+F07,Facility,7,2025-08-18,Leaf Area Index,0.59
+F07,Facility,7,2025-08-21,Leaf Area Index,0.62
+F07,Facility,7,2025-08-25,Leaf Area Index,0.65
+F07,Facility,7,2025-08-28,Leaf Area Index,0.81
+F07,Facility,7,2025-09-02,Leaf Area Index,0.64
+F07,Facility,7,2025-09-05,Leaf Area Index,1.11
+F07,Facility,7,2025-09-09,Leaf Area Index,1.01
+F07,Facility,7,2025-09-12,Leaf Area Index,1.42
+F07,Facility,7,2025-07-16,Leaf length,32.4
+F07,Facility,7,2025-07-18,Leaf length,33.3
+F07,Facility,7,2025-07-21,Leaf length,38.3
+F07,Facility,7,2025-07-24,Leaf length,39.8
+F07,Facility,7,2025-07-28,Leaf length,38.6
+F07,Facility,7,2025-07-31,Leaf length,44.6
+F07,Facility,7,2025-08-07,Leaf length,48.5
+F07,Facility,7,2025-08-11,Leaf length,51.7
+F07,Facility,7,2025-08-14,Leaf length,49.4
+F07,Facility,7,2025-08-18,Leaf length,52
+F07,Facility,7,2025-08-21,Leaf length,54
+F07,Facility,7,2025-08-25,Leaf length,57
+F07,Facility,7,2025-08-28,Leaf length,60.5
+F07,Facility,7,2025-09-02,Leaf length,60.9
+F07,Facility,7,2025-09-05,Leaf length,63
+F07,Facility,7,2025-09-09,Leaf length,65.2
+F07,Facility,7,2025-09-12,Leaf length,67.9
+F07,Facility,7,2025-07-16,Leaf width,2.2
+F07,Facility,7,2025-07-18,Leaf width,2.3
+F07,Facility,7,2025-07-21,Leaf width,2.5
+F07,Facility,7,2025-07-24,Leaf width,2.6
+F07,Facility,7,2025-07-28,Leaf width,2.7
+F07,Facility,7,2025-07-31,Leaf width,3.2
+F07,Facility,7,2025-08-07,Leaf width,3.3
+F07,Facility,7,2025-08-11,Leaf width,3.7
+F07,Facility,7,2025-08-14,Leaf width,3.8
+F07,Facility,7,2025-08-18,Leaf width,3.7
+F07,Facility,7,2025-08-21,Leaf width,3.7
+F07,Facility,7,2025-08-25,Leaf width,3.8
+F07,Facility,7,2025-08-28,Leaf width,4.1
+F07,Facility,7,2025-09-02,Leaf width,4.2
+F07,Facility,7,2025-09-05,Leaf width,4.4
+F07,Facility,7,2025-09-09,Leaf width,4.6
+F07,Facility,7,2025-09-12,Leaf width,4.7
+F08,Facility,8,2025-07-16,Plant Height,54.5
+F08,Facility,8,2025-07-18,Plant Height,58.8
+F08,Facility,8,2025-07-21,Plant Height,61
+F08,Facility,8,2025-07-24,Plant Height,61.7
+F08,Facility,8,2025-07-28,Plant Height,65.4
+F08,Facility,8,2025-07-31,Plant Height,69.2
+F08,Facility,8,2025-08-07,Plant Height,73.3
+F08,Facility,8,2025-08-11,Plant Height,78.5
+F08,Facility,8,2025-08-14,Plant Height,77.3
+F08,Facility,8,2025-08-18,Plant Height,80.8
+F08,Facility,8,2025-08-21,Plant Height,84.3
+F08,Facility,8,2025-08-25,Plant Height,89.7
+F08,Facility,8,2025-08-28,Plant Height,90.7
+F08,Facility,8,2025-09-02,Plant Height,95.8
+F08,Facility,8,2025-09-05,Plant Height,98.2
+F08,Facility,8,2025-09-09,Plant Height,101
+F08,Facility,8,2025-09-12,Plant Height,100.4
+F08,Facility,8,2025-07-16,Number of Tillers,4
+F08,Facility,8,2025-07-18,Number of Tillers,3
+F08,Facility,8,2025-07-21,Number of Tillers,6
+F08,Facility,8,2025-07-24,Number of Tillers,6
+F08,Facility,8,2025-07-28,Number of Tillers,7
+F08,Facility,8,2025-07-31,Number of Tillers,4
+F08,Facility,8,2025-08-07,Number of Tillers,7
+F08,Facility,8,2025-08-11,Number of Tillers,8
+F08,Facility,8,2025-08-14,Number of Tillers,9
+F08,Facility,8,2025-08-18,Number of Tillers,7
+F08,Facility,8,2025-08-21,Number of Tillers,10
+F08,Facility,8,2025-08-25,Number of Tillers,11
+F08,Facility,8,2025-08-28,Number of Tillers,10
+F08,Facility,8,2025-09-02,Number of Tillers,12
+F08,Facility,8,2025-09-05,Number of Tillers,9
+F08,Facility,8,2025-09-09,Number of Tillers,10
+F08,Facility,8,2025-09-12,Number of Tillers,13
+F08,Facility,8,2025-07-16,Leaf Area Index,0.1
+F08,Facility,8,2025-07-18,Leaf Area Index,0.11
+F08,Facility,8,2025-07-21,Leaf Area Index,0.27
+F08,Facility,8,2025-07-24,Leaf Area Index,0.15
+F08,Facility,8,2025-07-28,Leaf Area Index,0.45
+F08,Facility,8,2025-07-31,Leaf Area Index,0.44
+F08,Facility,8,2025-08-07,Leaf Area Index,0.29
+F08,Facility,8,2025-08-11,Leaf Area Index,0.4
+F08,Facility,8,2025-08-14,Leaf Area Index,0.53
+F08,Facility,8,2025-08-18,Leaf Area Index,0.72
+F08,Facility,8,2025-08-21,Leaf Area Index,0.83
+F08,Facility,8,2025-08-25,Leaf Area Index,0.83
+F08,Facility,8,2025-08-28,Leaf Area Index,1.02
+F08,Facility,8,2025-09-02,Leaf Area Index,1.1
+F08,Facility,8,2025-09-05,Leaf Area Index,1.1
+F08,Facility,8,2025-09-09,Leaf Area Index,1.35
+F08,Facility,8,2025-09-12,Leaf Area Index,1.43
+F08,Facility,8,2025-07-16,Leaf length,37.3
+F08,Facility,8,2025-07-18,Leaf length,40.2
+F08,Facility,8,2025-07-21,Leaf length,40.4
+F08,Facility,8,2025-07-24,Leaf length,42.9
+F08,Facility,8,2025-07-28,Leaf length,47
+F08,Facility,8,2025-07-31,Leaf length,48
+F08,Facility,8,2025-08-07,Leaf length,49.5
+F08,Facility,8,2025-08-11,Leaf length,53.7
+F08,Facility,8,2025-08-14,Leaf length,52.3
+F08,Facility,8,2025-08-18,Leaf length,57
+F08,Facility,8,2025-08-21,Leaf length,61.7
+F08,Facility,8,2025-08-25,Leaf length,61.7
+F08,Facility,8,2025-08-28,Leaf length,63.3
+F08,Facility,8,2025-09-02,Leaf length,66.8
+F08,Facility,8,2025-09-05,Leaf length,68.2
+F08,Facility,8,2025-09-09,Leaf length,71.4
+F08,Facility,8,2025-09-12,Leaf length,68.8
+F08,Facility,8,2025-07-16,Leaf width,2.9
+F08,Facility,8,2025-07-18,Leaf width,2.9
+F08,Facility,8,2025-07-21,Leaf width,3.2
+F08,Facility,8,2025-07-24,Leaf width,3.4
+F08,Facility,8,2025-07-28,Leaf width,3.1
+F08,Facility,8,2025-07-31,Leaf width,3.4
+F08,Facility,8,2025-08-07,Leaf width,3.4
+F08,Facility,8,2025-08-11,Leaf width,3.7
+F08,Facility,8,2025-08-14,Leaf width,4.2
+F08,Facility,8,2025-08-18,Leaf width,3.9
+F08,Facility,8,2025-08-21,Leaf width,4.1
+F08,Facility,8,2025-08-25,Leaf width,4.6
+F08,Facility,8,2025-08-28,Leaf width,4.6
+F08,Facility,8,2025-09-02,Leaf width,5
+F08,Facility,8,2025-09-05,Leaf width,4.8
+F08,Facility,8,2025-09-09,Leaf width,5.2
+F08,Facility,8,2025-09-12,Leaf width,4.9
+F09,Facility,9,2025-07-16,Plant Height,38.7
+F09,Facility,9,2025-07-18,Plant Height,43.2
+F09,Facility,9,2025-07-21,Plant Height,42.4
+F09,Facility,9,2025-07-24,Plant Height,45.5
+F09,Facility,9,2025-07-28,Plant Height,48
+F09,Facility,9,2025-07-31,Plant Height,52.1
+F09,Facility,9,2025-08-07,Plant Height,57.5
+F09,Facility,9,2025-08-11,Plant Height,58.8
+F09,Facility,9,2025-08-14,Plant Height,64.8
+F09,Facility,9,2025-08-18,Plant Height,64.4
+F09,Facility,9,2025-08-21,Plant Height,69.3
+F09,Facility,9,2025-08-25,Plant Height,71.9
+F09,Facility,9,2025-08-28,Plant Height,72.9
+F09,Facility,9,2025-09-02,Plant Height,76.4
+F09,Facility,9,2025-09-05,Plant Height,80.4
+F09,Facility,9,2025-09-09,Plant Height,84.5
+F09,Facility,9,2025-09-12,Plant Height,86.5
+F09,Facility,9,2025-07-16,Number of Tillers,3
+F09,Facility,9,2025-07-18,Number of Tillers,2
+F09,Facility,9,2025-07-21,Number of Tillers,3
+F09,Facility,9,2025-07-24,Number of Tillers,3
+F09,Facility,9,2025-07-28,Number of Tillers,3
+F09,Facility,9,2025-07-31,Number of Tillers,5
+F09,Facility,9,2025-08-07,Number of Tillers,6
+F09,Facility,9,2025-08-11,Number of Tillers,5
+F09,Facility,9,2025-08-14,Number of Tillers,5
+F09,Facility,9,2025-08-18,Number of Tillers,6
+F09,Facility,9,2025-08-21,Number of Tillers,6
+F09,Facility,9,2025-08-25,Number of Tillers,7
+F09,Facility,9,2025-08-28,Number of Tillers,9
+F09,Facility,9,2025-09-02,Number of Tillers,10
+F09,Facility,9,2025-09-05,Number of Tillers,8
+F09,Facility,9,2025-09-09,Number of Tillers,10
+F09,Facility,9,2025-09-12,Number of Tillers,9
+F09,Facility,9,2025-07-16,Leaf Area Index,0.1
+F09,Facility,9,2025-07-18,Leaf Area Index,0.1
+F09,Facility,9,2025-07-21,Leaf Area Index,0.1
+F09,Facility,9,2025-07-24,Leaf Area Index,0.1
+F09,Facility,9,2025-07-28,Leaf Area Index,0.1
+F09,Facility,9,2025-07-31,Leaf Area Index,0.1
+F09,Facility,9,2025-08-07,Leaf Area Index,0.12
+F09,Facility,9,2025-08-11,Leaf Area Index,0.29
+F09,Facility,9,2025-08-14,Leaf Area Index,0.44
+F09,Facility,9,2025-08-18,Leaf Area Index,0.35
+F09,Facility,9,2025-08-21,Leaf Area Index,0.5
+F09,Facility,9,2025-08-25,Leaf Area Index,0.47
+F09,Facility,9,2025-08-28,Leaf Area Index,0.45
+F09,Facility,9,2025-09-02,Leaf Area Index,0.83
+F09,Facility,9,2025-09-05,Leaf Area Index,0.55
+F09,Facility,9,2025-09-09,Leaf Area Index,0.95
+F09,Facility,9,2025-09-12,Leaf Area Index,0.73
+F09,Facility,9,2025-07-16,Leaf length,29.3
+F09,Facility,9,2025-07-18,Leaf length,29.9
+F09,Facility,9,2025-07-21,Leaf length,32.3
+F09,Facility,9,2025-07-24,Leaf length,32
+F09,Facility,9,2025-07-28,Leaf length,31.5
+F09,Facility,9,2025-07-31,Leaf length,33.3
+F09,Facility,9,2025-08-07,Leaf length,40
+F09,Facility,9,2025-08-11,Leaf length,40.2
+F09,Facility,9,2025-08-14,Leaf length,46.7
+F09,Facility,9,2025-08-18,Leaf length,48.7
+F09,Facility,9,2025-08-21,Leaf length,47.6
+F09,Facility,9,2025-08-25,Leaf length,49.9
+F09,Facility,9,2025-08-28,Leaf length,52.8
+F09,Facility,9,2025-09-02,Leaf length,55.8
+F09,Facility,9,2025-09-05,Leaf length,55.3
+F09,Facility,9,2025-09-09,Leaf length,56
+F09,Facility,9,2025-09-12,Leaf length,57.8
+F09,Facility,9,2025-07-16,Leaf width,1.8
+F09,Facility,9,2025-07-18,Leaf width,2.2
+F09,Facility,9,2025-07-21,Leaf width,1.9
+F09,Facility,9,2025-07-24,Leaf width,2.1
+F09,Facility,9,2025-07-28,Leaf width,2.2
+F09,Facility,9,2025-07-31,Leaf width,2.5
+F09,Facility,9,2025-08-07,Leaf width,2.6
+F09,Facility,9,2025-08-11,Leaf width,3
+F09,Facility,9,2025-08-14,Leaf width,2.9
+F09,Facility,9,2025-08-18,Leaf width,3.4
+F09,Facility,9,2025-08-21,Leaf width,3.6
+F09,Facility,9,2025-08-25,Leaf width,3.7
+F09,Facility,9,2025-08-28,Leaf width,3.6
+F09,Facility,9,2025-09-02,Leaf width,4
+F09,Facility,9,2025-09-05,Leaf width,4.1
+F09,Facility,9,2025-09-09,Leaf width,4.4
+F09,Facility,9,2025-09-12,Leaf width,4.5
