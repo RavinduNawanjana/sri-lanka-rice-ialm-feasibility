@@ -2,19 +2,19 @@
 
 **Field evaluation of alternate wetting and drying, reduced tillage, nutrient management, crop productivity, and the evidence requirements for carbon-credit quantification.**
 
-This repository is a reproducible academic reconstruction of a 2025 paddy-field feasibility study conducted at a Sri Lankan rice research site. It is designed as a research portfolio: the purpose is to make the experimental structure, data limitations, analytical choices, and carbon-methodology questions inspectable rather than to present a carbon-credit marketing claim.
+This repository reconstructs the analytical workflow for a 2025 paddy-field feasibility study conducted at a Sri Lankan rice research site. It documents the experimental structure, data limitations, analytical choices and carbon-methodology questions without presenting the study as evidence of verified carbon-credit outcomes.
 
 > **Current evidence status:** the supplied package contains 32 plot-level agronomic outcome records and 32 longitudinal crop-growth series, but it does **not** contain the raw greenhouse-gas measurement series needed to estimate seasonal CH4, N2O, or CO2 fluxes. The September 2025 progress report also described the project as still collecting gas measurements and still awaiting harvest/emissions compilation and comprehensive methodology verification work. No statement in this repository should be read as evidence that credits were validated, verified, issued, or that additionality was demonstrated.
 
 ## Researcher role
 
-During the underlying feasibility project, the portfolio author served as **Head of Impact Investments and Sustainability** for the private-sector project partner, with responsibilities spanning carbon-program design, methodology work, technical/financial documentation, and engagement with government/research counterparts. This public repository is the author's analytical reconstruction and reproducibility layer. It does not imply that the author personally collected every field measurement or authored every institutional source document. See [`docs/author-role.md`](docs/author-role.md).
+During the underlying feasibility project, Ravindu Nawanjana served as **Head of Impact Investments and Sustainability** for the private-sector project partner, with responsibilities spanning carbon-program design, methodology work, technical/financial documentation, and engagement with government/research counterparts. This repository documents the resulting analytical reconstruction and reproducibility workflow. It does not imply that the author personally collected every field measurement or authored every institutional source document. See [`docs/author-role.md`](docs/author-role.md).
 
 ![Field monitoring chambers](images/field/field_monitoring_chambers_2025_08_13.jpg)
 
 ## Research questions
 
-The portfolio is organized around four questions.
+The analysis is organised around four questions.
 
 1. How did crop productivity vary descriptively across the observed tillage, irrigation, and nutrient-management codes?
 2. Can the available design documentation support valid causal or factorial inference for those differences, or are the randomization and experimental units insufficiently documented?
@@ -25,17 +25,17 @@ The portfolio is organized around four questions.
 
 The agronomic hypotheses are deliberately separated from the GHG hypotheses. For dry yield, the primary current estimands are the contrasts among coded tillage, irrigation, and nutrient treatments, conditional on recovery of the correct assignment units. For GHG outcomes, the prospective hypothesis is that AWD may reduce seasonal CH4 relative to normal irrigation, while N2O can move in the opposite direction; the sign and magnitude of total climate impact must therefore be measured rather than assumed. Reduced tillage and nutrient management are likewise treated as empirical treatment dimensions, not predetermined mitigation successes.
 
-No crop-rotation treatment is encoded in the 32-row outcome dataset, and crop rotation is not introduced as a study factor in this public reconstruction. Full hypotheses and decision rules are in [`docs/research-questions-hypotheses.md`](docs/research-questions-hypotheses.md).
+No crop-rotation treatment is encoded in the 32-row outcome dataset, and crop rotation is not introduced as a study factor in this reconstruction. Full hypotheses and decision rules are in [`docs/research-questions-hypotheses.md`](docs/research-questions-hypotheses.md).
 
 ## Experimental reconstruction
 
 The final outcome workbook contains all combinations of:
 
-| Factor | Code | Public interpretation | Levels |
+| Factor | Code | Working interpretation | Levels |
 |---|---|---|---:|
 | Tillage | L | L1: two ploughings / conventional-intensity comparator; L2: one ploughing / reduced tillage | 2 |
 | Irrigation | IR | IR1: normal irrigation; IR2: alternate wetting and drying (AWD) | 2 |
-| Nutrient treatment | F | F1-F4; public-safe definitions are in `data/metadata/treatment_codebook.csv` | 4 |
+| Nutrient treatment | F | F1-F4; working definitions are in `data/metadata/treatment_codebook.csv` | 4 |
 | Plot replicate | R | R1, R2 | 2 |
 
 This gives **2 x 2 x 4 x 2 = 32 observed plot records**. The important qualification is that 32 observations are not automatically 32 independent experimental units for every factor. The proposal schematic appears hierarchical: large tillage sections, irrigation sections nested within tillage, and nutrient-treatment plots within those sections. The supplied outcome table has no block identifier, whole-plot identifier, or randomization map. Consequently, standard plot-level three-way ANOVA may overstate the precision of tillage and irrigation effects if those factors were not independently replicated at their assignment level. See [`docs/experimental-design.md`](docs/experimental-design.md) and [`docs/statistical-identification.md`](docs/statistical-identification.md).
@@ -46,7 +46,7 @@ This gives **2 x 2 x 4 x 2 = 32 observed plot records**. The important qualifica
 
 The source package does allow the treatment codes to be reconstructed, but it does **not** support pretending that every operational detail has been reconciled.
 
-| Code | Public-safe treatment interpretation | Status |
+| Code | Working treatment interpretation | Status |
 |---|---|---|
 | F1 | Full recommended mineral fertilizer plus organic manure | Provisional; one application schedule creates a discrepancy about proprietary-input use |
 | F2 | Reduced recommended mineral fertilizer plus organic manure and a proprietary organic input | Broadly supported; product identity, proportions, and dosing intentionally withheld |
